@@ -1,0 +1,2004 @@
+1;Consulta Medica General;2.95;1
+2;Consulta Medica Especialidades;3.44;1
+3;Control de Enfermeria;1.68;1
+4;Atencion de Psicologia;1.68;1
+5;Control de Obstetricia;1.68;1
+6;Control de Nutricion;1.68;1
+7;Atencion en hospitalizacion general, por dia;8.04;2
+8;Atencion en hospitalizacion en Cuidados Intermedios, por dia;14.30;2
+9;Atencion en hospitalizacion en Cuidados Intensivos, por dia;30.92;2
+10;Interconsulta Medica en Servicio de hospitalizacion;2.71;3
+11;Interconsulta Medica en Servicio de emergencia;3.62;3
+12;Atencion en Emergencia;5.88;4
+13;Atencion en Sala de Shock trauma;19.04;4
+14;Atencion en Sala de Observacion, dia;11.88;4
+15;Analgesia epidural para parto normal;4.69;5
+16;Anestesia en el servicio de radiologia para procedimientos invasivos;4.69;5
+17;Anestesia endovenosa para realizar procedimientos fuera de Sala de Operaciones;4.69;5
+18;Evaluacion pre-anestesica a paciente hospitalizado;2.71;5
+19;Sedacion con o sin analgesia ;1.58;5
+20;Cirugia del acne;53.10;6
+21;Debridamiento de piel infectada o eczemas extensos ;36.79;6
+22;Debridamiento de piel y tejido subcutaneo que incluye extraccion de cuerpo extrano asociado a fracturas expuestas o dislocaciones;42.86;6
+23;Debridamiento de Piel, Tejido Subcutaneo, fascia muscular y musculo;52.13;6
+24;Debridamiento de Piel, Tejido Subcutaneo, fascia muscular, musculo y hueso;60.52;6
+25;Plasta de cicatrices simples ;21.08;6
+26;Plasta de cicatrices complicadas;40.95;6
+27;Cierre secundario de herida quirurgica o dehiscencia, amplia o complicada;36.30;6
+28;Injerto de piel pediculado;46.54;6
+29;Preparacion quirurgica o creacion de sitio receptor;32.57;6
+30;Injerto de piel libre;34.28;6
+31;Aplicacion de Aloinjerto de piel;30.73;6
+32;Aplicacion de injerto heterologo de piel ;35.36;6
+33;Dermabrasion ;36.79;6
+34;Cervicoplastia;86.64;6
+35;Ritidectomia;86.64;6
+36;Excision de exceso de piel y tejido subcutaneo (incluyendo lipectomia), abdomen (abdominoplastia);86.64;6
+37;Lipectomia por aspiracion;37.76;6
+38;Excision de ulcera de decubito;36.79;6
+39;Excision de ulcera de decubito, con ostectomia;52.13;6
+40;Debridamiento o cura quirurgica de quemaduras bajo anestesia;32.57;6
+41;Escarectomia;40.95;6
+42;Quimiocirugia ;43.75;6
+43;Mastectomia por ginecomastia;46.98;6
+44;Mastectomia parcial;46.98;6
+45;Mastectomia parcial con linfadenectomia axilar;56.60;6
+46;Mastectomia completa, simple;73.85;6
+47;Mastectomia radical, incluyendo musculos pectorales y ganglios linfaticos axilares;119.36;6
+48;Mastectomia radical, incluyendo musculos pectorales, ganglios linfaticos axilares y mamarios internos;143.21;6
+49;Excision de tumor de pared toracica incluyendo costillas;71.87;6
+50;Excision de tumor de pared toracica que compromete costillas, con linfadenectomia mediastinica;89.12;6
+51;Mastopexia;56.60;6
+52;Mamoplastia reductora;125.60;6
+53;Mamoplastia de incremento sin implante;108.35;6
+54;Mamoplastia de incremento con implante de protesis;125.60;6
+55;Retiro de implante mamario ;45.00;6
+56;Insercion de protesis de mama posterior a la mastopexia, mastectomia, o cirugia reconstructora;54.62;6
+57;Reconstruccion de pezon / areola;40.82;6
+58;Correccion de pezon invertido;40.82;6
+59;Reconstruccion de mama con expansores tisulares;85.35;6
+60;Reconstruccion de mama con colgajo miocutaneo, con o sin implante de protesis;125.60;6
+61;Reconstruccion de mama con colgajo libre;139.53;6
+62;Reconstruccion de mama con otra tecnica;91.10;6
+63;Capsulotomia periprostesis de mama;56.60;6
+64;Capsulectomia periprostesis de mama;56.60;6
+65;Revision de reconstruccion de mama;40.82;6
+66;Exploracion de herida penetrante;37.85;6
+67;Remocion de implante superficial;26.68;6
+68;Remocion de implante profundo (p. ej. alambre intraoseo, clavija, tornillo, banda metalica, clavo, varilla o placa);45.68;6
+69;Aplicacion de sistema de fijacion en un solo plano (clavijas o alambres);29.77;6
+70;Aplicacion de sistema de fijacion en varios planos ;37.29;6
+71;Remocion, bajo anestesia, de sistema de fijacion externa;35.36;6
+72;Reimplante de brazo;217.09;6
+73;Reimplante de antebrazo;216.01;6
+74;Reimplante de mano;197.32;6
+75;Reimplante dedo, excluyendo dedo pulgar ;85.20;6
+76;Reimplante, dedo pulgar ;103.89;6
+77;Injerto oseo, cualquier zona donante;61.39;6
+78;Injerto cartilaginoso, fascia lata, tendon;61.39;6
+79;Injertos de tejidos, otros (p. ej. paratendon, grasa, dermis);78.64;6
+80;Tratamiento cerrado de luxacion de cadera, rodilla, tobillo;58.94;6
+81;Tratamiento cerrado de fractura pelvis, femur, tibia y perone;58.94;6
+82;Artroscopia quirurgica;59.53;6
+83;Artrotomia de articulacion temporomandibular;79.60;6
+84;Reseccion radical de tumor de tejido blando de cara o cuero cabelludo;80.01;6
+85;Excision de huesos faciales;73.85;6
+86;Excision de abultamiento mandibular o palatino maxilar;68.10;6
+87;Excision de tumor de huesos faciales;73.85;6
+88;Reseccion radical de tumor maligno de mandibula;86.24;6
+89;Condilectomia, articulacion temporomandibular;73.85;6
+90;Meniscectomia, parcial o completa, articulacion temporomandibular;79.60;6
+91;Tratamiento cerrado de fractura de huesos nasales, tabique nasal;33.57;6
+92;Tratamiento abierto de fractura de huesos nasales, tabique nasal;56.60;6
+93;Tratamiento abierto de fractura nasoetomoidal;65.23;6
+94;Tratamiento abierto de fractura deprimida de seno frontal;65.23;6
+95;Reduccion incruenta de fractura maxilar, mandibular o luxacion de articulacion temporomandibular;47.98;6
+96;Tratamiento abierto de fractura de complejo nasomaxilar (LeFort tipo II);80.01;6
+97;Tratamiento abierto de fractura de malar y/o arco cigomatico;73.85;6
+98;Tratamiento abierto de fractura por estallido de piso orbitario;80.01;6
+99;Tratamiento cerrado de fractura de orbita;73.78;6
+100;Tratamiento abierto de fractura maxilar (Lefort I);80.01;6
+101;Tratamiento cerrado de disyunci�n craneofacial (LeFort III) ;95.50;6
+102;Tratamiento abierto de disyunci�n craneofacial (LeFort III) ;103.45;6
+103;Tratamiento cerrado de fractura del arco dentario de la mand�bula o del maxilar;65.23;6
+104;Tratamiento abierto de fractura del arco dentario de la mand�bula o del maxilar;73.85;6
+105;Tratamiento abierto de fractura mandibular;73.85;6
+106;Tratamiento abierto de luxaci�n de articulaci�n temporomandibular;65.23;6
+107;Tratamiento abierto de fractura de hueso hioides;56.60;6
+108;Excisi�n de tumor de tejido blando de cuello o t�rax;55.03;6
+109;Excisi�n de costilla, parcial;55.03;6
+110;Costotransversectom�a ;55.03;6
+111;Ostectom�a del estern�n, parcial;85.71;6
+112;Resecci�n radical del estern�n;92.84;6
+113;Divisi�n de escaleno anterior;63.41;6
+114;Divisi�n del esternocleidomastoideo por tort�colis, operaci�n a cielo abierto;63.41;6
+115;Correcci�n reconstructiva de pecho excavado (en embudo) o de pecho hundido (en quilla);91.10;6
+116;Tratamiento abierto de fractura de costilla ;55.03;6
+117;Tratamiento abierto de fractura del estern�n ;85.71;6
+118;Escisi�n de tumor de tejido blando de espalda o flanco;53.10;6
+119;Resecci�n radical de tumor de tejido blando de espalda o flanco;80.82;6
+120;Excisi�n parcial de elemento vertebral posterior (ej. ap�fisis espinosa, l�mina o faceta);85.71;6
+121;Osteotom�a de columna vertebral, abordaje posterior o posterolateral;71.80;6
+122;Osteotom�a de columna con discectom�a, abordaje anterior;107.11;6
+123;Tratamiento cerrado de fracturas y/o luxaciones de cuerpos vertebrales;76.84;6
+124;Tratamiento abierto y/o reducci�n de fracturas o luxaciones vertebrales;128.52;6
+125;Manipulaci�n de columna vertebral con necesidad de anestesia;63.41;6
+126;Artrodesis vertebral, t�cnica anterior ;132.19;6
+127;Artrodesis vertebral posterior;117.51;6
+128;Exploraci�n de fusi�n espinal;18.12;6
+129;Instrumentaci�n espinal posterior no segmentaria ;18.12;6
+130;Instrumentaci�n espinal segmentaria posterior ;18.12;6
+131;Remoci�n de instrumentaci�n no segmentaria posterior ;18.12;6
+132;Remoci�n de instrumentaci�n segmentaria posterior;18.12;6
+133;Artrotom�a de articulaci�n glenohumeral, incluyendo exploraci�n, drenaje, extirpaci�n de cuerpo extra�o, biopsia;88.16;6
+134;Artrotom�a acromioclavicular, esternoclavicular incluyendo exploraci�n, drenaje, extirpaci�n de cuerpo extra�o, biopsia;88.16;6
+135;Resecci�n radical de tumor de tejido blando de regi�n del hombro;119.36;6
+136;Claviculectom�a;77.15;6
+137;Acromioplast�a o acromionectom�a, parcial;95.50;6
+138;Excisi�n o legrado de quiste �seo o tumor benigno de clav�cula, esc�pula o h�mero proximal;63.41;6
+139;Secuestrectom�a de clavicula;71.80;6
+140;Secuestrectom�a de cabeza o cuello quir�rgico del h�mero;107.11;6
+141;Excisi�n parcial de clavicula, esc�pula o h�mero proximal;75.00;6
+142;Osteotom�a de esc�pula;110.18;6
+143;Resecci�n radical de tumor de clavicula o esc�pula;125.62;6
+144;Resecci�n radical de tumor �seo, h�mero proximal;125.62;6
+145;Transferencia de m�sculo de hombro o brazo;93.94;6
+146;Tenotom�a regi�n del hombro;62.39;6
+147;Correcci�n de ruptura de manguito musculotendinoso ;60.65;6
+148;Liberaci�n de ligamento coracoacromial, con o sin acromioplast�a;63.41;6
+149;Tenodesis del tend�n largo del b�ceps;65.23;6
+150;Resecci�n o trasplante del tend�n largo del b�ceps;62.35;6
+151;Capsulorrafia anterior;61.32;6
+152;Capsulorrafia, articulaci�n glenohumeral, posterior, con o sin inserci�n de bloque �seo;71.65;6
+153;Artroplast�a articulaci�n glenohumeral, hemiartroplast�a;125.62;6
+154;Osteotom�a de clav�cula, con o sin fijaci�n interna;110.18;6
+155;Tratamiento abierto de fractura clavicular, luxaci�n esternoclavicular, acromioclavicular;56.60;6
+156;Tratamiento abierto de fractura escapular (cuerpo, cavidad glenoide o acromi�n) ;56.60;6
+157;Tratamiento abierto de fractura del h�mero proximal ;93.94;6
+158;Tratamiento abierto de luxaci�n aguda del hombro;93.94;6
+159;Artrodesis de hombro;115.96;6
+160;Amputaci�n intert�racoescapular (cuarto delantero);109.72;6
+161;Desarticulaci�n de hombro;93.94;6
+162;Artrotom�a de codo, incluyendo exploraci�n, drenaje o extirpaci�n de cuerpo extra�o;62.39;6
+163;Excisi�n de tumor de brazo o regi�n del codo ;77.43;6
+164;Resecci�n radical de tumor de tejido blando de brazo o regi�n del codo;125.62;6
+165;Excisi�n de bolsa del ol�cranon;60.65;6
+166;Excisi�n y legrado de quiste �seo o tumor benigno de h�mero, cabeza o cuello de radio o ap�fisis olecraneana;77.43;6
+167;Excisi�n de cabeza de radio;79.64;6
+168;Secuestrectom�a de h�mero distal, cabeza o cuello de radio, ap�fisis olecraneana;96.89;6
+169;Excisi�n parcial de h�mero, cabeza o cuello de radio, ap�fisis olecraneana;91.33;6
+170;Resecci�n radical de c�psula, tejido blando y hueso heterot�pico de codo;104.96;6
+171;Resecci�n radical de tumor de di�fisis o h�mero distal, cabeza o cuello de radio;125.62;6
+172;Resecci�n de articulaci�n de codo (artrectom�a);104.96;6
+173;Extirpaci�n de cuerpo extra�o en brazo o regi�n del codo;51.30;6
+174;Extirpaci�n de cuerpo extra�o, brazo o regi�n del codo, profundo (subfascial o intramuscular);69.04;6
+175;Transferencia de m�sculo o tend�n en brazo o regi�n del codo;93.94;6
+176;Alargamiento de tend�n en brazo o codo;79.64;6
+177;Tenotom�a abierta, desde el codo al hombro;62.39;6
+178;Tenoplast�a con transferencia de m�sculo, desde el codo al hombro;96.89;6
+179;Flexor-plast�a de codo ;96.89;6
+180;Tenodesis del tend�n de b�ceps a nivel de codo;71.01;6
+181;Reinserci�n de tend�n roto del b�ceps o tr�ceps, distal;71.01;6
+182;Fasciotom�a lateral o medial (p. ej. codo de tenista o epicondilitis),;62.39;6
+183;Artroplast�a de codo, cabeza de radio;125.62;6
+184;Osteotom�a de h�mero;125.62;6
+185;Osteoplast�a de h�mero (p. ej. acortamiento o alargamiento);109.72;6
+186;Paro hemiepifisario (p. ej. c�bito varo o valgo, h�mero distal);67.59;6
+187;Fasciotom�a de descompresi�n de antebrazo;60.65;6
+188;Tratamiento abierto de fractura de di�fisis del h�mero ;93.94;6
+189;Fijaci�n esquel�tica percut�nea de fractura humeral condilar, epicondilar, supracondilar o transcondilar;62.79;6
+190;Tratamiento abierto de fractura humeral condilar, epicondilar, supracondilar o transcondilar;93.94;6
+191;Tratamiento abierto de fractura periarticular y/o luxaci�n de codo (fractura del h�mero distal y c�bito proximal y/o radio proximal),;79.64;6
+192;Tratamiento abierto de luxaci�n aguda o cr�nica de codo;79.64;6
+193;Tratamiento abierto de la fractura de Monteggia a nivel del codo (fractura del extremo proximal de c�bito con luxaci�n de cabeza del radio);79.64;6
+194;Tratamiento abierto de fractura de cabeza o cuello del radio;79.64;6
+195;Tratamiento abierto de fractura de c�bito, extremo proximal (ap�fisis olecraneana);79.64;6
+196;Artrodesis, articulaci�n de codo;115.96;6
+197;Amputaci�n a nivel de brazo a trav�s del h�mero;81.63;6
+198;Incisi�n de vaina tendinosa del extensor, mu�eca (p. ej. enfermedad de Quervain);55.06;6
+199;Fasciotom�a descompresiva, antebrazo y/o mu�eca;60.65;6
+200;Artrotom�a de articulaci�n radiocarpal o mediocarpal, con exploraci�n, drenaje o extirpaci�n de cuerpo extra�o;62.39;6
+201;Excisi�n de tumor de antebrazo y/o regi�n de la mu�eca;63.41;6
+202;Resecci�n radical de tumor de tejido blando de antebrazo y/o regi�n de la mu�eca;119.36;6
+203;Capsulotom�a de mu�eca ;56.60;6
+204;Artrotom�a de articulaci�n de la mu�eca, radiocubital distal;62.39;6
+205;Excisi�n radical de bolsa tendinosa, l�quido sinovial de mu�eca o vaina tendinosa de antebrazo;80.63;6
+206;Sinovectom�a, vaina de tend�n extensor en mu�eca ;62.39;6
+207;Excisi�n o legrado de quiste �seo o tumor benigno de radio, c�bito, huesos carpales;77.43;6
+208;Excisi�n parcial de c�bito o radio;91.33;6
+209;Resecci�n radical de tumor de radio o c�bito;125.62;6
+210;Carpectom�a, un solo hueso;62.39;6
+211;Carpectom�a, todos los huesos de la fila proximal;79.64;6
+212;Estiloidectom�a radial ;71.01;6
+213;Exploraci�n con extirpaci�n de cuerpo extra�o de antebrazo o mu�eca;51.30;6
+214;Remoci�n de pr�tesis de mu�eca;55.06;6
+215;Correcci�n de tend�n o m�sculo de antebrazo y/o mu�eca;59.69;6
+216;Alargamiento o acortamiento de tend�n flexor o extensor de antebrazo o mu�eca;79.64;6
+217;Tenotom�a abierta de tend�n flexor o extensor de antebrazo y/o mu�eca;60.65;6
+218;Ten�lisis de tend�n flexor o extensor de antebrazo y/o mu�eca;69.04;6
+219;Tenodesis a nivel de la mu�eca;71.01;6
+220;Trasplante o transferencia de tend�n de antebrazo y/o mu�eca;86.27;6
+221;Deslizamiento del origen de los flexores de antebrazo y/o mu�eca;79.64;6
+222;Capsulorrafia o reconstrucci�n de mu�eca;67.59;6
+223;Artroplast�a de mu�eca;125.62;6
+224;Centralizaci�n de mu�eca sobre el c�bito (p. ej. mano p�ndula radial);79.64;6
+225;Osteotom�a de radio y/o c�bito;115.96;6
+226;Osteoplast�a de radio y/o c�bito;77.43;6
+227;Correcci�n de falta de uni�n de hueso escafoide (navicular), con o sin estiloidectom�a radial ;55.64;6
+228;Revisi�n de artroplast�a de mu�eca incluyendo remoci�n de implantes;62.39;6
+229;Paro epifisario radio distal y/o c�bito;62.39;6
+230;Tratamiento abierto de fractura de di�fisis de radio, di�fisis de c�bito;79.64;6
+231;Tratamiento abierto de fractura de di�fisis de radio y de articulaci�n radio-cubital distal;79.64;6
+232;Tratamiento abierto de fracturas de las di�fisis del radio y c�bito;79.64;6
+233;Fijaci�n esquel�tica percut�nea de fractura distal de radio o separaci�n epifisaria;62.79;6
+234;Tratamiento abierto de fractura distal de radio ;79.64;6
+235;Tratamiento abierto de fractura de hueso carpeano;79.64;6
+236;Tratamiento abierto de luxaci�n radiocubital distal;79.64;6
+237;Artrodesis de mu�eca;79.64;6
+238;Amputaci�n de antebrazo a trav�s de radio y c�bito;79.64;6
+239;Desarticulaci�n a trav�s de la mu�eca;93.94;6
+240;Desarticulaci�n de mu�eca;160.00;6
+241;Amputaci�n transmetacarpal;71.01;6
+242;Incisi�n de hueso cortical de mano o dedo ;60.65;6
+243;Fasciotom�a descompresiva de mano ;60.65;6
+244;Fasciotom�a palmar ;62.39;6
+245;Incisi�n de vaina tendinosa (p. ej. para dedo en gatillo);55.06;6
+246;Artrotom�a con exploraci�n, drenaje,  extirpaci�n de cuerpo suelto o cuerpo extra�o o biopsia en articulaci�n carpometacarpiana, metacarpofal�ngica o interfal�ngica;79.64;6
+247;Excisi�n de tumor o malformaci�n vascular de mano o dedo;79.64;6
+248;Resecci�n radical de tumor de tejido blando de mano o dedo;125.62;6
+249;Fasciectom�a de la palma;56.64;6
+250;Sinovectom�a de articulaci�n carpometacarpiana, metacarpofal�ngica o interfal�ngica;62.39;6
+251;Sinovectom�a radical de vaina tendinosa (tenosinovectom�a) de tend�n flexor, palma y/o dedo ;79.64;6
+252;Sesamoidectom�a dedo pulgar u otro dedo;79.64;6
+253;Excisi�n o legrado de quiste �seo o tumor benigno del metacarpo o falanges;69.04;6
+254;Excisi�n parcial de metacarpo o falanges;80.63;6
+255;Resecci�n radical de metacarpo o falanges;27.89;6
+256;Extirpaci�n de implante de dedo o mano;60.65;6
+257;Correcci�n o avance de tend�n flexor de mano;59.69;6
+258;Correcci�n o avance de tend�n del m�sculo flexor profundo de los dedos ;59.69;6
+259;Correcci�n de tend�n extensor de mano o dedo;59.69;6
+260;Realineaci�n de tend�n extensor de mano;60.65;6
+261;Ten�lisis de tend�n flexor o extensor de mano y/o dedo;71.01;6
+262;Tenotom�a abierta de tend�n flexor o extensor de mano o dedo ;60.65;6
+263;Tenodesis de articulaci�n interfal�ngica ;71.01;6
+264;Alargamiento de tend�n extensor o flexor de mano o dedo;114.97;6
+265;Acortamiento de tend�n extensor o flexor de mano o dedo;112.74;6
+266;Transplante o transferencia de tend�n, regi�n carpometacarpiana o dorso de la mano;93.94;6
+267;Transplante o transferencia de tend�n palmar;93.94;6
+268;Restauraci�n de la oposici�n del pulgar (oponenplast�a);96.89;6
+269;Correcci�n de dedo en garra;54.10;6
+270;Liberaci�n de m�sculos tenares (p. ej. contractura del pulgar);62.39;6
+271;Capsulodesis en articulaci�n metacarpofal�ngica;62.39;6
+272;Capsulectom�a o capsulotom�a de articulaci�n metacarpofal�ngica;62.39;6
+273;Artroplastia de articulaci�n metacarpofal�ngica, interfal�ngica;86.27;6
+274;Correcci�n de ligamento colateral de articulaci�n metacarpofal�ngica o interfal�ngica;54.10;6
+275;Reconstrucci�n de ligamento colateral de articulaci�n metacarpofal�ngica, interfal�ngica;62.39;6
+276;Correcci�n y reconstrucci�n de dedo, placa palmar o articulaci�n interfal�ngica;59.69;6
+277;Pulgarizaci�n de un dedo;67.59;6
+278;Transplante de dedo de pie en la mano con anastomosis microvascular;101.77;6
+279;Correcci�n de sindactilia (dedos en membrana);54.10;6
+280;Osteotom�a metacarpiana, falange de dedo;96.89;6
+281;Osteoplast�a, alargamiento, metacarpo o falange;86.27;6
+282;Corrrecci�n de mano hendida;59.69;6
+283;Correcci�n de dedo b�fido;54.10;6
+284;Reconstrucci�n de d�gito supernumerario, tejido blando y hueso;60.65;6
+285;Correcci�n de macrodactilia;54.10;6
+286;Correcci�n de m�sculos intr�nsecos de la mano;54.10;6
+287;Excisi�n de surcos anulares constrictivos, con varias Z-plast�as;93.94;6
+288;Liberaci�n de contractura cicatrizal, flexor o extensor de mano y/o dedo;71.01;6
+289;Fijaci�n esquel�tica percut�nea de fractura metacarpiana;62.79;6
+290;Tratamiento abierto de fractura metacarpiana, falanges;53.76;6
+291;Fijaci�n esquel�tica percut�nea de luxaci�n carpometacarpiana, interfal�ngica;62.79;6
+292;Tratamiento abierto de luxaci�n carpometacarpiana, metacarpofal�ngica;53.76;6
+293;Fijaci�n esquel�tica percut�nea de fractura inestable de falange;62.79;6
+294;Tratamiento abierto de fractura articular, con compromiso de articulaci�n metacarpofal�ngica o interfal�ngica;79.64;6
+295;Fusi�n en oposici�n de pulgar;79.64;6
+296;Artrodesis de articulaci�n carpometacarpiana, metacarpofal�ngica, o interfal�ngica;79.64;6
+297;Amputaci�n a nivel de mano;71.01;6
+298;Amputaci�n a nivel de dedos de mano;62.39;6
+299;Incisi�n de hueso cortical de pelvis y/o articulaci�n de la cadera ;62.39;6
+300;Tenotom�a de aductor de la cadera;69.04;6
+301;Tenotom�a de flexores de la cadera;71.01;6
+302;Tenotom�a de abductores y/o extensores de la cadera;71.01;6
+303;Fasciotom�a de cadera o muslo;60.65;6
+304;Artrotom�a de cadera, incluyendo exploraci�n, o extirpaci�n de cuerpo suelto o de cuerpo extra�o o drenaje o biopsia;93.94;6
+305;Denervaci�n de articulaci�n de la cadera ;160.00;6
+306;Capsulectom�a o capsulotom�a de cadera;101.77;6
+307;Resecci�n radical de tumor de tejido blando de pelvis y regi�n de la cadera ;125.62;6
+308;Excisi�n de bolsa sinovial isqui�tica, trocant�rica o calcificaci�n;71.01;6
+309;Excisi�n de quiste �seo o tumor benigno de pelvis o cadera;93.94;6
+310;Excisi�n parcial de huesos de cadera o pelvis;125.62;6
+311;Resecci�n radical de tumor o infecci�n de huesos de pelvis y cadera;125.62;6
+312;Coxigectom�a;61.39;6
+313;Extirpaci�n de cuerpo extra�o en pelvis o cadera;61.39;6
+314;Remoci�n de pr�tesis de cadera;62.39;6
+315;Liberaci�n o resecci�n de tendones de la corva;67.59;6
+316;Acetabuloplast�a;188.79;6
+317;Hemiartroplastia de cadera;188.79;6
+318;Artroplast�a, reemplazo prot�sico acetabular y femoralproximal (reemplazo total de cadera);188.79;6
+319;Revisi�n de artroplastia total de cadera;72.79;6
+320;Osteotom�a y transferencia de troc�nter mayor ;125.62;6
+321;Osteotom�a il�aca, acetabular o hueso innominado coxal;149.48;6
+322;Osteotom�a de pelvis, bilateral (p. ej. malformaci�n cong�nita);160.98;6
+323;Osteotom�a, cuello femoral ;125.62;6
+324;Osteotom�a intratrocant�rica o subtrocant�rica ;125.62;6
+325;Injerto �seo, cabeza y cuello del f�mur, �rea intertrocant�rica o subtrocant�rica ;86.27;6
+326;Tratamiento del deslizamiento de la ep�fisis femoral por tracci�n;93.94;6
+327;Tratamiento abierto del deslizamiento de la ep�fisis femoral;77.92;6
+328;Paro epifisario mediante epifisiodesis o engrapado, troc�nter mayor;62.39;6
+329;Tratamiento abierto de fractura cocc�gea;69.04;6
+330;Tratamiento abierto de fracturas de espinas il�acas o de cresta il�aca ;115.96;6
+331;Fijaci�n esquel�tica percut�nea de fractura y/o luxaci�n de pelvis;71.92;6
+332;Tratamiento abierto de fractura y/o luxaci�n de pelvis;160.00;6
+333;Tratamiento abierto de fractura de acet�bulo;173.33;6
+334;Fijaci�n esquel�tica percut�nea de fractura de extremo proximal o cuello femoral;62.79;6
+335;Tratamiento abierto de fractura de extremo proximal o cuello femoral;101.77;6
+336;Manipulaci�n de articulaci�n de la cadera con anestesia general;60.65;6
+337;Artrodesis sacroil�aca ;93.94;6
+338;Artrodesis de s�nfisis del pubis ;96.89;6
+339;Artrodesis de cadera ;204.33;6
+340;Amputaci�n interpelviabdominal (amputaci�n de cuarto trasero);135.29;6
+341;Desarticulaci�n de la cadera;93.94;6
+342;Fasciotom�a iliotibial ;62.39;6
+343;Tenotom�a percut�nea de aductor o tendones de la corva;60.65;6
+344;Artrotom�a de rodilla con exploraci�n, drenaje, extirpaci�n de cuerpo extra�o o biopsia sinovial;93.94;6
+345;Neurectom�a, m�sculo de la corva;73.89;6
+346;Neurectom�a, popl�tea (m�sculos gemelos);73.89;6
+347;Excisi�n de tumor de regi�n del muslo o rodilla;77.43;6
+348;Resecci�n radical de tumor de tejido blando o regi�n de muslo o rodilla;125.62;6
+349;Excisi�n de bolsa sinovial prerrotuliana, quiste sinovial de espacio popl�teo o lesi�n de menisco;69.04;6
+350;Rotulectom�a o hemirotulectom�a;85.39;6
+351;Excisi�n o legrado de quiste �seo o tumor benigno de f�mur;58.28;6
+352;Excisi�n parcial de hueso de f�mur, tibia proximal y/o peron� ;112.74;6
+353;Resecci�n radical de tumor de hueso de f�mur o rodilla;125.62;6
+354;Extirpaci�n de cuerpo extra�o, profundo, regi�n del muslo o de la rodilla;80.63;6
+355;Sutura de tend�n infrarrotuliano, primaria;71.01;6
+356;Sutura de ruptura del m�sculo cu�driceps o de unidad musculotendinosa de la corva;69.04;6
+357;Tenotom�a abierta de tendones de la corva, rodilla hasta cadera;71.01;6
+358;Alargamiento de tend�n de la corva;79.64;6
+359;Trasplante de tend�n de la corva a la r�tula;93.94;6
+360;Traslado de tend�n o m�sculo de la corva al f�mur ;107.57;6
+361;Artrotom�a de rodilla con reparaci�n de menisco;93.94;6
+362;Correcci�n de c�psula y/o ligamentos de rodilla;93.94;6
+363;Plast�a de tuberosidad anterior de la tibia;71.92;6
+364;Reconstrucci�n de luxaci�n de r�tula;62.39;6
+365;Liberaci�n del retin�culo lateral ;62.39;6
+366;Reconstrucci�n extraarticular de ligamentos de rodilla;71.92;6
+367;Reconstrucci�n intraarticular de ligamentos de rodilla;89.84;6
+368;Cuadriceplast�a ;81.94;6
+369;Capsulotom�a de rodilla, liberaci�n de la c�psula posterior ;71.92;6
+370;Artroplast�a de rodilla;149.48;6
+371;Osteotom�a de f�mur ;115.96;6
+372;Osteotom�a tibia proximal, incluyendo excisi�n u osteotom�a de peron� ;115.96;6
+373;Osteoplast�a de f�mur, acortamiento;88.26;6
+374;Osteoplast�a de f�mur, alargamiento;95.62;6
+375;Osteoplast�a de f�mur, combinado, alargamiento y acortamiento con transferencia de segmento femoral;104.96;6
+376;Paro epifisario de f�mur distal, tibia y/o peron� proximal;71.92;6
+377;Revisi�n de artroplast�a total de rodilla;67.59;6
+378;Remoci�n de pr�tesis de rodilla;61.36;6
+379;Fasciotom�a descompresiva, muslo y/o rodilla;62.39;6
+380;Tratamiento abierto de fractura de di�fisis femoral ;93.94;6
+381;Fijaci�n esquel�tica percut�nea de fractura femoral distal;62.79;6
+382;Tratamiento abierto de fractura femoral distal, tibial proximal;101.77;6
+383;Tratamiento abierto de separaci�n epifisaria femoral distal;71.92;6
+384;Tratamiento abierto de fractura rotuliana o luxaci�n de rodilla;93.94;6
+385;Manipulaci�n de articulaci�n de rodilla bajo anestesia general ;60.65;6
+386;Artrodesis de rodilla;115.96;6
+387;Amputaci�n a nivel de muslo;79.64;6
+388;Desarticulaci�n a nivel de la rodilla;93.94;6
+389;Fasciotom�a descompresiva de pierna;60.65;6
+390;Incisi�n y drenaje de absceso profundo, hematoma, bolsa sinovial infectada de pierna o tobillo;55.06;6
+391;Tenotom�a percut�nea de tend�n de Aquiles ;60.65;6
+392;Artrotom�a de tobillo, incluyendo exploraci�n, drenaje o extirpaci�n de cuerpo extra�o;62.39;6
+393;Resecci�n radical de tumor de tejido blando de pierna o regi�n del tobillo;125.62;6
+394;Excisi�n de tumor de pierna o regi�n del tobillo;77.43;6
+395;Excisi�n de lesi�n de vaina tendinosa o c�psula (p. ej. quiste o ganglio) de pierna y/o tobillo;71.01;6
+396;Excisi�n o legrado de quiste �seo o tumor benigno de tibia o peron�;69.04;6
+397;Excisi�n parcial �sea de tibia o peron�;91.33;6
+398;Resecci�n radical de tumor �seo de tibia, peron�, astr�galo o calc�neo;125.62;6
+399;Correcci�n de ruptura del tend�n de Aquiles;54.10;6
+400;Correcci�n de defecto fascial de la pierna;54.10;6
+401;Correcci�n de tend�n flexor o extensor de pierna;59.69;6
+402;Ten�lisis, tend�n flexor o extensor, pierna y/o tobillo;79.64;6
+403;Alargamiento o acortamiento de tend�n de pierna o tobillo;79.64;6
+404;Recesi�n de m�sculos gemelos (p. ej. procedimiento de Strayer);62.39;6
+405;Transferencia o trasplante de tend�n (con cambio de direcci�n o de ruta del m�sculo) de pierna;93.94;6
+406;Correcci�n de ligamento lesionado de tobillo;54.10;6
+407;Artroplast�a de tobillo;125.62;6
+408;Remoci�n de implante de tobillo;55.06;6
+409;Osteotom�a de tibia y/o peron�;115.96;6
+410;Osteoplast�a de tibia y peron�, alargamiento o acortamiento;86.27;6
+411;Correcci�n de pseudoartrosis cong�nita, tibia;60.65;6
+412;Paro epifisario de tibia distal y/o peron� distal;62.39;6
+413;Fijaci�n esquel�tica percut�nea de fractura de di�fisis tibial (con o sin fractura del peron�);62.79;6
+414;Tratamiento abierto de fractura de la di�fisis tibial, (con o sin fractura del peron�) ;93.94;6
+415;Tratamiento abierto de fractura de peron� proximal o di�fisis del peron�;79.64;6
+416;Tratamiento abierto de fractura del peron� distal ;79.64;6
+417;Tratamiento abierto de fractura bimaleolar o trimaleolar del tobillo;79.64;6
+418;Tratamiento abierto de rotura de la articulaci�n tibioperoneo distal (sindesmosis);93.94;6
+419;Tratamiento abierto de luxaci�n de articulaci�n tibioperonea proximal o tobillo;79.64;6
+420;Manipulaci�n de tobillo bajo anestesia general ;60.65;6
+421;Artrodesis de tobillo;115.96;6
+422;Artrodesis de articulaci�n tibioperonea proximal o distal;79.64;6
+423;Amputaci�n a nivel de tibia y peron�;79.64;6
+424;Amputaci�n a nivel de los maleolos de la tibia y peron� ;85.39;6
+425;Desarticulaci�n de tobillo;93.94;6
+426;Fasciotom�a descompresiva de pierna;60.65;6
+427;Incisi�n de hueso cortical de pie;60.65;6
+428;Fasciotom�a de pie y/o dedo del pie;55.06;6
+429;Tenotom�a percut�nea de dedo del pie;60.65;6
+430;Artrotom�a intertarsiana, tarsometatarsiana e interfal�ngica, incluyendo exploraci�n, drenaje, extirpaci�n de cuerpo suelto o de cuerpo extra�o o biopsia;62.39;6
+431;Neurectom�a, musculatura intr�nseca del pie;73.89;6
+432;Liberaci�n de t�nel del tarso (descompresi�n del nervio tibial posterior);62.39;6
+433;Excisi�n de tumor de pie;60.65;6
+434;Resecci�n radical de tumor de tejido blando del pie;125.62;6
+435;Fasciectom�a, fascia plantar ;56.64;6
+436;Sinovectom�a de articulaci�n intertarsiana, tarsometatarsiana o metatarsofal�ngica;62.39;6
+437;Sinovectom�a de vaina tendinosa de pie;62.39;6
+438;Excisi�n o legrado de quiste �seo o tumor benigno de huesos del tarso metatarsianos y falanges;69.04;6
+439;Ostectom�a de metatarsianos;71.84;6
+440;Ostectom�a, excisi�n completa, de todas las cabezas metatarsianas, con falangectom�a proximal parcial,;91.14;6
+441;Excisi�n parcial �sea en huesos tarsianos, metatarsianos y falanges de dedos del pie;69.04;6
+442;Talectom�a (astragalectom�a);67.59;6
+443;Metatarsectom�a;73.89;6
+444;Falangectom�a, dedo del pie;55.06;6
+445;Hemifalangectom�a o excisi�n de articulaci�n interfal�ngica de dedo del pie;60.65;6
+446;Resecci�n radical de tumor �seo de huesos del tarso, metatarsianos y falanges del pie;104.96;6
+447;Extirpaci�n de cuerpo extra�o en pie;51.30;6
+448;Correcci�n de tend�n de pie;59.69;6
+449;Ten�lisis, de tend�n flexor o extensor de pie;69.04;6
+450;Tenotom�a abierta de tend�n flexor o extensor de pie;60.65;6
+451;Reconstrucci�n (avance) de tend�n tibial posterior con excisi�n de hueso escafoides (navicular);96.89;6
+452;Tenotom�a, alargamiento, o liberaci�n de m�sculo abductor del dedo gordo;62.39;6
+453;Capsulotom�a en pie ;62.39;6
+454;Sindactilizaci�n de dedo del pie;62.39;6
+455;Correcci�n de dedo en martillo ;54.10;6
+456;Ostectom�a parcial, exostectom�a o condilectom�a;71.84;6
+457;Correcci�n de hallux rigidus;93.94;6
+458;Correcci�n de hallux valgus ;93.94;6
+459;Osteotom�a de huesos tarsianos, metatarsianos y falanges;96.89;6
+460;Reconstrucci�n de deformidad angular de dedo del pie, procedimientos para tejido blando solamente;62.39;6
+461;Sesamoidectom�a;79.64;6
+462;Correcci�n de huesos tarsianos, metatarsianos por falta de uni�n o uni�n defectuosa;54.10;6
+463;Reconstrucci�n de dedo del pie, macrodactilia;62.39;6
+464;Reconstrucci�n de dedos del pie, polidactilia;62.39;6
+465;Reconstrucci�n de dedos del pie, sindactilia;62.39;6
+466;Fijaci�n esquel�tica percut�nea de fractura de huesos del tarso ;62.79;6
+467;Tratamiento abierto de fractura de huesos del tarso, metatarso o falanges;53.76;6
+468;Fijaci�n esquel�tica percut�nea de fractura metatarsiana o falanges;62.79;6
+469;Tratamiento abierto de fractura sesamoidea;79.64;6
+470;Fijaci�n esquel�tica percut�nea de luxaci�n de huesos tarsianos, articulaci�n tarsometatarsiana, metatarsofal�ngicas o interfal�ngicas;55.06;6
+471;Tratamiento abierto de luxaci�n de huesos tarsianos, articulaci�n tarsometatarsiana, metatarsofal�ngicas o interfal�ngicas  ;53.76;6
+472;Artrodesis panastragalina;79.64;6
+473;Artrodesis triple;137.98;6
+474;Artrodesis subastragalina;79.64;6
+475;Artrodesis mediotarsal o tarsometatarsiana;79.64;6
+476;Artrodesis metatarsofal�ngica;79.64;6
+477;Artrodesis interfal�ngica;79.64;6
+478;Amputaci�n de pie;71.01;6
+479;Amputaci�n de dedo;60.65;6
+480;Polipectom�a nasal;38.79;6
+481;Excisi�n o destrucci�n de lesiones intranasales;42.52;6
+482;Tratamiento quir�rgico de Rinofima;58.11;6
+483;Resecci�n de quiste dermoide nasal;45.10;6
+484;Resecci�n de cornete;52.14;6
+485;Rinectom�a parcial;75.14;6
+486;Rinectom�a total;112.55;6
+487;Extirpaci�n de cuerpo extra�o intranasal con necesidad de anestesia general;42.31;6
+488;Rinoplast�a primaria;59.77;6
+489;Rinoplast�a secundaria;68.39;6
+490;Rinoplast�a por deformidad nasal secundario a defectos cong�nitos;81.40;6
+491;Septoplast�a o resecci�n submucosa, incluyendo modificaci�n del contorno o reemplazo con injerto;68.39;6
+492;Correcci�n de atresia de coanas;68.94;6
+493;Lisis de sinequia intranasal;41.34;6
+494;Correcci�n de f�stula oromaxilar ;60.76;6
+495;Correcci�n de f�stula oronasal;57.89;6
+496;Reparaci�n de perforaciones nasales septales;51.14;6
+497;Fractura terap�utica de cornetes nasales;39.64;6
+498;Sinusotom�a maxilar (antrotom�a), abordaje intranasal;62.25;6
+499;Sinusotom�a radical  (Caldwell Luc) ;60.37;6
+500;Cirug�a de la fosa pterigomaxilar;84.09;6
+501;Sinusotom�a esfenoidal ;84.09;6
+502;Sinusotom�a frontal;59.17;6
+503;Etmoidectom�a ;68.51;6
+504;Maxilectom�a sin enucleaci�n de �rbita;84.09;6
+505;Maxilectom�a con enucleaci�n de �rbita;106.29;6
+506;Laringotom�a con extirpaci�n de tumor o laringocele, cordectom�a;61.32;6
+507;Extirpaci�n de lesiones de cuerdas vocales con microcirug�a (n�dulo, papilomas);83.97;6
+508;Laringuectom�a total, sin disecci�n radical de cuello.;117.38;6
+509;Laringuectom�a total, con disecci�n radical de cuello;146.54;6
+510;Laringuectom�a subtotal supragl�tica, sin disecci�n radical de cuello;98.69;6
+511;Laringuectom�a subtotal supragl�tica, con disecci�n radical de cuello;126.41;6
+512;Laringuectom�a parcial;98.69;6
+513;Faringolaringuectom�a, con disecci�n radical de cuello;186.79;6
+514;Aritenoidectom�a o aritenoidopexia;86.24;6
+515;Epiglotidectom�a;73.85;6
+516;Laringoplast�a;98.69;6
+517;Reinervaci�n lar�ngea con ped�culo neuromuscular;110.55;6
+518;Secci�n del nervio lar�ngeo recurrente terap�utica;83.26;6
+519;Traqueoplast�a ;160.10;6
+520;Reconstrucci�n de carina traqueal;198.25;6
+521;Broncoplast�a;173.45;6
+522;Excisi�n de tumor traqueal o carcinoma;214.77;6
+523;Sutura de herida o lesi�n traqueal ;56.60;6
+524;Cierre quir�rgico de traqueostom�a o f�stula ;56.60;6
+525;Revisi�n de cicatriz de traqueostom�a;35.16;6
+526;Toracotom�a ;91.10;6
+527;Neumonotom�a con drenaje de quiste o absceso;125.60;6
+528;Decorticaci�n pulmonar total;221.04;6
+529;Decorticaci�n pulmonar parcial;142.34;6
+530;Pleurectom�a parietal;142.34;6
+531;Decorticaci�n y pleurectom�a parietal;221.04;6
+532;Biopsia pulm�n o mediastino;56.60;6
+533;Neumocentesis;91.10;6
+534;Neumonectom�a;136.07;6
+535;Neumonectom�a con resecci�n de segmento de tr�quea;334.04;6
+536;Lobectom�a pulmonar;142.34;6
+537;Lobectom�a pulmonar + Segmentectom�a;179.71;6
+538;Enucleaci�n extrapleural de empiema (empiemectom�a);104.96;6
+539;Toracoscopia diagn�stica ;74.42;6
+540;Toracoscopia quir�rgica;180.16;6
+541;Cura quir�rgica de hernia pulmonar a trav�s de la pared tor�cica;77.92;6
+542;Reconstrucci�n de pared tor�cica;104.96;6
+543;Cierre de f�stula bronquial ;142.34;6
+544;Transplante pulmonar, uno solo ;420.43;6
+545;Transplante pulmonar doble (bilateral, secuencial o en bloque) ;808.33;6
+546;Resecci�n de costillas, extrapleural;61.32;6
+547;Toracoplast�a;104.96;6
+548;Pericardiostom�a;66.14;6
+549;Pericardiotom�a para extirpaci�n de co�gulo o cuerpo extra�o;88.16;6
+550;Creaci�n de ventana peric�rdica o resecci�n parcial para drenaje;73.85;6
+551;Pericardiectom�a parcial o completa ;110.18;6
+552;Excisi�n de tumor o quiste peric�rdico;167.06;6
+553;Excisi�n de tumor intracard�aco;238.04;6
+554;Resecci�n de tumor card�aco externo;221.04;6
+555;Ablaci�n quir�rgica de foco o v�a arritmog�nica;221.04;6
+556;Correcci�n de lesi�n card�aca, sin derivaci�n cardiopulmonar;165.38;6
+557;Correcci�n de lesi�n card�aca, con derivaci�n cardiopulmonar;385.78;6
+558;Cardiotom�a exploratoria ;125.62;6
+559;Reparaci�n de los grandes vasos intrator�cicos sin derivaci�n cardio-pulmonar;298.84;6
+560;Reparaci�n de los grandes vasos intrator�cicos con derivaci�n cardio-pulmonar;409.33;6
+561;Colocaci�n de injerto en aorta o grandes vasos;298.84;6
+562;Valvuloplast�a a�rtica;315.13;6
+563;Construcci�n de conducto apical a�rtico;315.13;6
+564;Reemplazo de v�lvula a�rtica con v�lvula prot�sica;385.78;6
+565;Correcci�n de obstrucci�n de la v�a de flujo de salida de ventr�culo;385.78;6
+566;Resecci�n o incisi�n de tejido subvalvular por estenosis a�rtica subvalvular;345.05;6
+567;Ventriculomiotom�a (-miectom�a) por estenosis suba�rtica;385.78;6
+568;Aortoplast�a por estenosis supravalvular;365.41;6
+569;Valvotom�a mitral a coraz�n cerrado;125.62;6
+570;Valvotom�a mitral a coraz�n abierto;244.48;6
+571;Valvuloplast�a mitral;244.48;6
+572;Reemplazo de v�lvula mitral ;315.13;6
+573;Valvectom�a tricusp�dea ;244.48;6
+574;Valvuloplast�a tricusp�dea;244.48;6
+575;Reemplazo de v�lvula tric�spide;315.13;6
+576;Reposicionamiento y pliegue de la v�lvula tricuspide por enfermedad de Ebstein;315.13;6
+577;Valvotom�a pulmonar a coraz�n cerrado ;122.94;6
+578;Valvotom�a pulmonar a coraz�n abierto ;244.48;6
+579;Reemplazo de v�lvula pulmonar;244.48;6
+580;Aumento de la v�a de flujo de salida con o sin comisurotom�a o resecci�n infundibular;244.48;6
+581;Correcci�n de f�stula arteriovenosa coronaria o de f�stula de arteria con c�mara card�aca;244.48;6
+582;Correcci�n de anormalidades de la arteria coronaria, sin derivaci�n cardio-pulmonar;211.10;6
+583;Correcci�n de anormalidades de la arteria coronaria, con derivaci�n cardio-pulmonar;270.63;6
+584;Bypass arteria coronaria, �nico, doble o triple;211.10;6
+585;Bypass arteria coronaria, mayor de tres puentes ;330.15;6
+586;Resecci�n mioc�rdica (p. ej. Aneurismectom�a ventricular);456.43;6
+587;Correcci�n de defecto del tabique ventricular post-infarto;456.43;6
+588;Endarterectom�a coronaria;198.88;6
+589;Tratamiento quir�rgico de cardiopat�as cong�nitas complejas (Atresia tricusp�dea, Ventr�culo �nico, transposici�n de los grandes vasos, tetralog�a de Fallot, otros);315.13;6
+590;Tratamiento quir�rgico de cardiopat�as cong�nitas de complejidad mediana (Comunicaci�n interventricular, comunicaci�n interauricular simple);211.10;6
+591;Septectom�a o septostom�a auricular a coraz�n cerrado ;143.43;6
+592;Septectom�a o septostom�a auricular a coraz�n abierto con derivaci�n cardio-pulmonar;244.48;6
+593;Procedimientos de shunt, sin by-pass cardiopulmonar: Aorto - Pulmonar, Subclavio - Pulmonar, otros);244.48;6
+594;Correcci�n total de Troncus Arteriosus (operaci�n de Rastelli);315.13;6
+595;Reimplante de arteria pulmonar an�mala;315.13;6
+596;Procedimientos de shunt, con derivaci�n cardiopulmonar;254.33;6
+597;Transplante coraz�n - pulm�n, con cardiectom�a-neumectom�a en el receptor y en el donante;1018.93;6
+598;Transplante card�aco, con o sin cardiectom�a en el receptor y cardiectom�a en el donante;895.63;6
+599;Inserci�n de bal�n intraa�rtico ;140.75;6
+600;Retiro de bal�n intraa�rtico, incluyendo correcci�n de arteria ;184.68;6
+601;Implante de dispositivo de asistencia ventricular;125.62;6
+602;Retiro de dispositivo de asistencia ventricular;125.62;6
+603;Embolectom�a o trombectom�a, en arteria perif�rica;55.61;6
+604;Embolectom�a o trombectom�a de ramas de aorta abdominal, por laparatom�a;98.69;6
+605;Trombectom�a venosa;91.10;6
+606;Valvuloplast�a de vena femoral;98.69;6
+607;Reconstrucci�n de vena cava;98.69;6
+608;Transposici�n de v�lvula venosa ;173.45;6
+609;Anastomosis venosa safenopopl�tea;160.10;6
+610;Cura quir�rgica de aneurismas, falso aneurismas o excisi�n e inserci�n de injerto en cuello, brazo o pierna;136.97;6
+611;Cura quir�rgica de aneurismas, falso aneurismas o excisi�n e inserci�n de injerto mediante incisi�n tor�cica;120.25;6
+612;Cura quir�rgica de aneurismas, falso aneurismas o excisi�n e inserci�n de injerto de aorta abdominal y/o vasos viscerales e il�acos ;167.96;6
+613;Cura quir�rgica de f�stulas arteriovenosas cabeza y cuello;147.50;6
+614;Cura quir�rgica de f�stulas arteriovenosas de t�rax y abdomen;136.97;6
+615;Cura quir�rgica de f�stulas arteriovenosas de extremidades;99.59;6
+616;Sutura o anastomosis directa de vaso sangu�neo perif�rico;90.93;6
+617;Sutura o anastomosis directa de vaso sangu�neo intrator�cico o intraabdominal;136.97;6
+618;Correcci�n de vaso sangu�neo perif�rco con injerto ;136.97;6
+619;Correcci�n de vaso sangu�neo intrator�cico o intraabdominal con injerto ;136.97;6
+620;Tromboendarterectom�a, con o sin injerto, de arterias perif�ricas;136.97;6
+621;Tromboendarterectom�a, con o sin injerto, de arteria aorta abdominal y sus ramas;174.34;6
+622;Angioplast�a con bal�n transluminal abierta;120.25;6
+623;Angioplast�a con bal�n transluminal percut�nea;98.51;6
+624;Aterectom�a perif�rica transluminal, abierta;98.51;6
+625;Aterectom�a perif�rica trasluminal percut�nea;98.51;6
+626;By-pass Aorto-subclavio o Aorto-carot�deo;204.33;6
+627;By-pass Aorto-visceral (renal, mesent�rico o similares);320.40;6
+628;By-pass Aorto - iliaco o biiliaco;268.75;6
+629;By-pass Aorto-femoral o bifemoral;268.75;6
+630;Otras derivaciones (f�moro-femoral, axilo-humeral, car�tido-subclavio, axilo-axilar, femoral - popl�teo o similares);268.75;6
+631;Transposici�n y/o reimplante de arteria a arteria;179.71;6
+632;Exploraci�n vascular, reoperaci�n, correcci�n o retiro de injerto vascular;99.59;6
+633;Anastomosis arteriovenosa directa ;67.35;6
+634;Creaci�n de f�stula arteriovenosa que no sea por anastomosis arteriovenoso, con injerto ;126.43;6
+635;Trombectom�a de f�stula arteriovenosa;69.28;6
+636;Correcci�n pl�stica de aneurisma arteriovenoso;126.43;6
+637;Anastomosis porto-cava u otras porto-sist�micas;126.43;6
+638;Anastomosis venosas intraabdominales;160.93;6
+639;Ligadura de troncos arteriales o venosos ;91.93;6
+640;Ligadura de Vena Cava inferior ;99.59;6
+641;Ligadura y divisi�n y denudaci�n completa de de vena safena larga o corta;90.93;6
+642;Ligadura, divisi�n y excisi�n de venas varicosas recurrentes o secundarias en piernas;90.93;6
+643;Esplenectom�a total;99.23;6
+644;Esplenectom�a parcial;74.32;6
+645;Esplenorrafia (ruptura de bazo);74.32;6
+646;Injerto aut�logo de tejido espl�nico;61.86;6
+647;Esplenectom�a por v�a laparosc�pica;177.68;6
+648;Transplante de m�dula �sea o derivados de c�lulas sangu�neas;103.16;6
+649;Linfagiotom�a u otras operaciones sobre los ganglios linf�ticos;57.10;6
+650;Sutura y/o ligadura de Conducto Tor�cico;91.60;6
+651;Excisi�n de higroma qu�stico;91.60;6
+652;Linfadenectom�a conservadora para clasificaci�n de la etapa del c�ncer;57.10;6
+653;Linfadenectom�a suprahioidea;80.10;6
+654;Linfadenectom�a cervical;91.60;6
+655;Linfadenectom�a axilar;91.60;6
+656;Linfadenectom�a tor�cica;91.60;6
+657;Linfadenectom�a abdominal;91.60;6
+658;Linfadenectom�a inguinofemoral;91.60;6
+659;Linfadenectom�a p�lvica;91.60;6
+660;Linfadenectom�a retroperitoneal;91.60;6
+661;Linfadenectom�a por v�a laparosc�pica;177.68;6
+662;Excisi�n de quiste o tumor medast�nico;109.18;6
+663;Mediastinoscopia;64.16;6
+664;Correcci�n de laceraci�n diafragm�tica;56.60;6
+665;Correcci�n de hernia hiatal paraesof�gica;91.10;6
+666;Correcci�n de hernia diafragm�tica neonatal;117.38;6
+667;Correcci�n de hernia diafragm�tica (hiatal esof�gica);91.10;6
+668;Imbricaci�n de diafragma por eventraci�n;56.60;6
+669;Plast�a / Reconstrucci�n de labio;46.81;6
+670;Resecci�n de labio, sin reconstrucci�n;40.74;6
+671;Queiloplast�a, primaria, parcial o completa, unilateral;86.64;6
+672;Queiloplast�a, primaria, bilateral, uno de dos pasos;103.41;6
+673;Rafia de lesiones intraorales, piso de la boca y lengua;52.87;6
+674;Vestibuloplast�a ;58.55;6
+675;Glosectom�a parcial, menos de la mitad de la lengua;53.62;6
+676;Glosectom�a, con disecci�n radical de cuello;173.45;6
+677;Glosectom�a con resecci�n del piso de la boca y resecci�n mandibular;173.45;6
+678;Glosectom�a con resecci�n del piso de la boca, resecci�n mandibular y disecci�n del cuello suprahioideo;214.77;6
+679;Operaci�n Comando: glosectom�a con resecci�n del piso de la boca, resecci�n mandibular y disecci�n radical del cuello;231.29;6
+680;Extracciones quir�rgicas dentales;21.62;6
+681;Gingivectom�a ;19.54;6
+682;Operculectom�a;20.58;6
+683;Excisi�n de tuberosidades, lesiones o tumor de estructuras dentoalveolares;19.54;6
+684;Excisi�n de mucosa alveolar hiperpl�stica;19.54;6
+685;Alveolectom�a, incluyendo legrado de oste�tis o secuestrectom�a;21.62;6
+686;Alveoloplast�as;25.80;6
+687;Resecci�n de paladar o resecci�n amplia de lesi�n;69.88;6
+688;Uvulectom�a;31.60;6
+689;Palatofaringoplast�a;75.63;6
+690;Correcci�n de laceraci�n de paladar ;61.25;6
+691;Palatoplast�a para paladar hendido;69.88;6
+692;Alargamiento de paladar;69.88;6
+693;Correcci�n de f�stula nasolabial;69.88;6
+694;Fistulizaci�n de quiste salival sublingual;73.42;6
+695;Sialitotom�a;65.04;6
+696;Biopsia de Gl�ndula salival;48.27;6
+697;Extirpaci�n de r�nula;73.42;6
+698;Marzupializaci�n de r�nula;65.04;6
+699;Parotidectom�a parcial o total;129.26;6
+700;Parotidectom�a con disecci�n radical de cuello;177.40;6
+701;Submaxilectom�a parcial o total;129.26;6
+702;Excisi�n de gl�ndula sublingual;77.51;6
+703;Plast�a aparato salival;94.76;6
+704;Cierre de f�stula salival;77.51;6
+705;Dilataci�n y/o cateterismo de conducto salival ;51.63;6
+706;Ligadura de conducto salival;50.20;6
+707;Faringotom�a, sutura de faringe;29.02;6
+708;Extripaci�n de quiste branquial;53.90;6
+709;Amigdalectom�a c/s adenoidectom�a;35.09;6
+710;Adenoidectom�a;35.09;6
+711;Extirpaci�n de restos amigdalianos;29.02;6
+712;Faringuectom�a conservadora;89.95;6
+713;Faringoplast�a;84.98;6
+714;Correcci�n faringoesof�gica;116.13;6
+715;Faringostom�a;89.95;6
+716;Esofagotom�a, abordaje cervical;56.60;6
+717;Miotom�a cricofar�ngea;56.60;6
+718;Esofagotom�a, abordaje tor�cico;102.60;6
+719;Esofaguectom�a total con faringogastrostom�a o es�fagogastrostom�a;214.77;6
+720;Esofaguectom�a total con  interposici�n de colon o reconstrucci�n del instestino delgado;231.87;6
+721;Esofaguectom�a segmentaria;136.61;6
+722;Diverticulectom�a de hipofaringe o es�fago;99.23;6
+723;Esofagoplast�a, abordaje cervical;80.10;6
+724;Esofagoplast�a, abordaje tor�cico;117.92;6
+725;Esofagogastrostom�a;99.23;6
+726;Fundoplast�a esofagog�strica;99.23;6
+727;Fundoplicatura esofagog�strica por v�a laparosc�pica;148.10;6
+728;Esofagomiotom�a;74.32;6
+729;Esofagoyeyunostom�a;99.23;6
+730;Esofagostom�a, fistulizaci�n de es�fago;99.23;6
+731;Reconstrucci�n gastrointestinal con interposici�n de colon o reconstrucci�n del intestino delgado;189.23;6
+732;Ligadura directa de v�rices esof�gicas;86.77;6
+733;Transecci�n de es�fago con correcci�n, por v�rices esof�gicas;119.90;6
+734;Ligadura o engrapado de la uni�n gastroesof�gica por perforaci�n esof�gica ;119.90;6
+735;Sutura de herida o lesi�n esof�gica;61.86;6
+736;Cierre de esofagostom�a o f�stula ;80.10;6
+737;Gastrotom�a con exploraci�n c/s extirpaci�n de cuerpo extra�o y/o tumor benigno;57.10;6
+738;Gastrotom�a con sutura de �lcera sangrante o laceraci�n esofagog�strica preexistente (p. ej. Mallory Weiss);68.60;6
+739;Piloromiotom�a;39.85;6
+740;Biopsia de est�mago por laparotom�a;35.32;6
+741;Gastrectom�a total con esogafoenterostom�a, y procedimiento de reconstrucci�n;231.87;6
+742;Gastrectom�a parcial distal con gastroduodenostom�a o gastroyeyunostom�a, incluye procedimiento de reconstrucci�n;183.50;6
+743;Vagotom�a con gastrectom�a distal parcial;117.92;6
+744;Gastrectom�a parcial (subtotal);149.07;6
+745;Vagotom�a troncal o selectiva, incluye piloroplast�a c/s gastrostom�a;99.23;6
+746;Vagotom�a Ultraselectiva;99.23;6
+747;Vagotom�a troncular por v�a laparosc�pica;106.12;6
+748;Vagotom�a selectiva o ultraselectiva por v�a laparosc�pica;114.07;6
+749;Piloroplast�a;61.86;6
+750;Gastroduodenostom�a;61.86;6
+751;Gastroyeyunostom�a ;74.32;6
+752;Gastrostom�a ;48.47;6
+753;Gastrostom�a neonatal para alimentaci�n;52.51;6
+754;Gastrostom�a por v�a laparosc�pica;58.41;6
+755;Gastrorrafia;49.40;6
+756;Gastrorrafia + parche de epiplon (Graham) por �lcera perforada;61.86;6
+757;Gastroplast�a;80.54;6
+758;Revisi�n de anastomosis gastroduodenal, gastroyeyunal;45.60;6
+759;Cierre de gastrostom�a;57.10;6
+760;Cierre de f�stula gastroent�rica o gastroc�lica;57.10;6
+761;Duodenotom�a;57.10;6
+762;Diverticulizaci�n duodenal;126.10;6
+763;Enterotom�a, intestino diferente a duodeno;68.60;6
+764;Enterostom�as;57.10;6
+765;Yeyunostom�a por v�a laparosc�pica;61.26;6
+766;Enteroenterostom�a, anastomosis de Intestino;57.10;6
+767;Sutura de intestino delgado, Enterorrafia;45.60;6
+768;Resecci�n de Intestino delgado;57.10;6
+769;Reseccion intestinal con anastomosis via laparosc�pica;119.97;6
+770;Cirug�a de duplicaci�n intestinal;80.10;6
+771;Correcci�n pl�stica de estrechez intestinal ;68.60;6
+772;Plicatura intestinal;160.60;6
+773;Cierre de f�stula enterocut�nea;57.10;6
+774;Cierre de f�stula enteroent�rica o enteroc�lica;57.10;6
+775;Cierre de f�stula enterovesical;57.10;6
+776;Cierre de enterostom�a, intestino grueso o delgado;45.60;6
+777;Exclusi�n de intestino delgado de la regi�n p�lvica mediante malla u otra pr�tesis;91.60;6
+778;Correcci�n de malrotaci�n ;68.60;6
+779;Movilizaci�n (desmontado) del �ngulo espl�nico con colectom�a parcial;80.54;6
+780;Colotom�a ;48.47;6
+781;Colostom�a o cecostom�a con exteriorizaci�n a piel;74.35;6
+782;Revisi�n de colostom�a simple;39.85;6
+783;Cierre de colostom�a tipo Hartman por v�a laparosc�pica;153.83;6
+784;Sutura de intestino grueso, Colorrafia;48.47;6
+785;Colectom�a parcial con anastomosis;117.92;6
+786;Colectom�a total, resecci�n abdomino-perineal;198.60;6
+787;Reducci�n de V�lvulo, Intususcepci�n, Hernia interna por laparotom�a;91.60;6
+788;Resecci�n col�nica asistida por laparoscopia;164.01;6
+789;Proctocolectom�a total;198.75;6
+790;Excisi�n de divert�culo de Meckel (diverticulectom�a) o conducto onfalomesent�rico;44.38;6
+791;Apendicectom�a;40.09;6
+792;Apendicectom�a con lavado de cavidad c/s drenaje;55.03;6
+793;Apendicectom�a con drenaje;46.64;6
+794;Drenaje de absceso apendicular sin apendicectom�a;38.26;6
+795;Apendicectom�a por v�a laparosc�pica;66.69;6
+796;Drenaje de absceso p�lvico, perirrectal;27.65;6
+797;Proctectom�a completa;110.18;6
+798;Proctectom�a parcial ;73.85;6
+799;Protectom�a completa por megacolon cong�nito ;136.07;6
+800;Tratamiento quir�rgico de prolapso mucoso;46.98;6
+801;Excisi�n de tumor rectal ;43.49;6
+802;Proctoplast�a;46.07;6
+803;Proctopexia por prolapso;73.85;6
+804;Proctopexia combinada con resecci�n sigmoidea, abordaje abdominal;110.18;6
+805;Rectopexia por v�a laparosc�pica;119.97;6
+806;Tratamiento quir�rgico de rectocele;72.86;6
+807;Cierre de f�stula rectovesical;56.60;6
+808;Cierre de f�stula rectouretral;73.85;6
+809;Extirpaci�n de impactaci�n fecal o cuerpo extra�o bajo anestesia;26.59;6
+810;Esfinterotom�a anal, divisi�n del esfinter;24.24;6
+811;Fisurectom�a c/s esfinterectom�a;34.66;6
+812;Criptectom�a;21.92;6
+813;Papilectom�a ;21.92;6
+814;Hemorroidectom�a ;43.04;6
+815;Tratamiento quir�rgico de f�stula anal (fistulectom�a, fistulotom�a);43.04;6
+816;Trombectom�a hemorroidaria;29.07;6
+817;Anoplast�a;55.61;6
+818;Correcci�n de ano imperforado;91.10;6
+819;Reparaci�n de anomal�a cloacal por anorectovaginoplast�a y uretroplast�a;136.07;6
+820;Esfinteroplast�a anal ;62.35;6
+821;Cerclaje de esf�nter anal (Thiersch);53.62;6
+822;Retiro de alambre (de Thiersch) o sutura de canal anal;27.75;6
+823;Destrucci�n de lesiones anales: condiloma, papiloma, molusco contagioso, herpes genital;20.12;6
+824;Destrucci�n de hemorroides;29.77;6
+825;Criocirug�a de tumor rectal;20.86;6
+826;Hepatotom�a, para drenaje de absceso, quiste;48.47;6
+827;Laparotom�a c/aspiraci�n y/o inyecci�n de parasiticidas;46.82;6
+828;Biopsia hep�tica en cu�a;32.44;6
+829;Hepatectom�a, resecci�n parcial de h�gado, lobectom�a parcial;173.98;6
+830;Tratamiento quir�rgico de quistes no parasitarios hep�ticos por v�a laparosc�pica;129.97;6
+831;Transplante hep�tico;986.34;6
+832;Marsupializaci�n de quiste o absceso de h�gado;57.10;6
+833;Tratamiento quir�rgico de trauma hep�tico, grado I, II;61.86;6
+834;Tratamiento quir�rgico de trauma hep�tico, grado III, IV;143.75;6
+835;Reexploraci�n hep�tica para retiro de compresas por taponamiento;61.86;6
+836;Hepaticotom�a o hepaticostom�a c/exploraci�n, drenaje o extracci�n de c�lculo;91.60;6
+837;Coledocotom�a o coledocostom�a c/ exploraci�n, drenaje, o extracci�n de c�lculo c/s colecistotom�a, sin esfinteroplastia transduodenal;108.85;6
+838;Esfinterotom�a o esfinteroplast�a transduodenal c/s extracci�n de c�lculo ;91.60;6
+839;Colecistotom�a o colecistostom�a c/exploraci�n, drenaje, o extracci�n de c�lculo;57.10;6
+840;Colecistectom�a;65.72;6
+841;Colecistectom�a con exploraci�n de v�as biliares;74.35;6
+842;Colecistectom�a por v�a laparosc�pica;75.94;6
+843;Colecistectom�a por v�a laparosc�pica con exploraci�n de v�as biliares;119.97;6
+844;Excisi�n de quiste de col�doco;117.92;6
+845;Derivaci�n colecistoyeyunal;117.92;6
+846;Anastomosis de conductos biliares extrahep�ticos y tracto gastrointestinal;167.60;6
+847;Colecistoenterostom�a por v�a laparosc�pica;129.97;6
+848;Anastomosis de conductos intrahep�ticos y tracto gastrointestinal;191.46;6
+849;Reconstrucci�n pl�stica de conductos extrahep�ticos con anastomosis termino - terminal;191.46;6
+850;Colocaci�n de f�rula coledociana;117.92;6
+851;Drenaje v�a biliar transparenquima hep�tico (Praderi);99.23;6
+852;Colocaci�n de drenes peripancre�ticos ;39.85;6
+853;Resecci�n o debridamiento de p�ncreas y tejido peripancre�tico ;57.10;6
+854;Extirpaci�n de c�lculos pancre�ticos;74.35;6
+855;Biopsia de p�ncreas, abierta;57.10;6
+856;Excisi�n de lesi�n de p�ncreas;74.35;6
+857;Pancreatectom�a distal subtotal c/s esplenectom�a;154.81;6
+858;Excisi�n de Ampolla de Vater;99.23;6
+859;Duodeno pancreatectom�a;425.82;6
+860;Pancreatectom�a total;492.39;6
+861;Anastomosis pancre�tico digestivas;147.12;6
+862;Marsupializaci�n de quiste pancre�tico;96.04;6
+863;Drenaje externo de seudoquiste pancre�tico;72.19;6
+864;Anastomosis interna de quiste pancre�tico al tracto gastrointestinal ;80.54;6
+865;Pancreatorrafia ;48.47;6
+866;Exclusion duodenal con gastroyeyunostom�a por trauma pancreatico;99.23;6
+867;Transplante de p�ncreas;775.74;6
+868;Laparotom�a exploradora c/s biopsia;48.31;6
+869;Laparostom�a;51.11;6
+870;Laparotom�a + lavado de cavidad c/s drenaje;51.11;6
+871;Laparoscopia diagn�stica;41.03;6
+872;Drenaje de absceso peritoneal, subfr�nico o retroperitoneal a cielo abierto;61.10;6
+873;Drenaje de linfocele extraperitoneal a cavidad peritoneal, a cielo abierto;62.85;6
+874;Laparoscopia para drenaje de linfocele abierto a cavidad peritoneal;66.86;6
+875;Biopsia de masa abdominal o retroperitoneal;49.92;6
+876;Excisi�n o destrucci�n de tumores, quistes o endometriomas intra o retroperitoneales;61.10;6
+877;Excisi�n de tumores presacros o sacrococcigeos;61.10;6
+878;Enter�lisis, liberaci�n de adherencias o bridas peritoneales o intestinales;52.72;6
+879;Lisis de bridas y adherencias peritoneales e intestinales por v�a laparosc�pica;59.56;6
+880;Celiotom�a (laparotom�a) para estadiaje de Enfermedad de Hodgkin o linfoma;45.82;6
+881;Onfalectom�a;41.05;6
+882;Omentectom�a, epiploectom�a;43.85;6
+883;Hernioplast�a inguinal o crural unilateral;49.44;6
+884;Hernioplast�a inguinal o crural unilateral, incarcerada o estrangulada;54.06;6
+885;Otras hernioplast�as de pared abdominal;53.73;6
+886;Tratamiento quir�rgico de eventraci�n;52.23;6
+887;Eventroplast�a por v�a laparosc�pica;105.30;6
+888;Hernioplast�a epig�strica ;39.12;6
+889;Hernioplast�a epig�strica incarcerada o estrangulada;46.98;6
+890;Hernioplast�a umbilical;43.85;6
+891;Hernioplast�a umbilical incarcelada o estrangulada;50.85;6
+892;Hernioplast�a de Spiegel;52.23;6
+893;Hernioplast�a inguinal por v�a laparosc�pica;94.29;6
+894;Tratamiento quir�rgico de onfalocele o gastroquisis;60.62;6
+895;Sutura secundaria de pared abdominal por evisceraci�n o dehiscencia;60.62;6
+896;Tratamiento quir�rgico de la fasce�tis necrotizante;52.23;6
+897;Drenaje de absceso perirrenal o renal, a cielo abierto;56.60;6
+898;Nefrostom�a, nefrotom�a con drenaje;47.98;6
+899;Nefrotom�a, con exploraci�n;47.98;6
+900;Nefrolitotom�a, extirpaci�n de c�lculo;56.60;6
+901;Nefrostolitotom�a percut�nea o pielostolitotom�a;47.98;6
+902;Pielotom�a, con exploraci�n;56.60;6
+903;Biopsia renal mediante exposici�n quir�rgica del ri��n;39.35;6
+904;Nefrectom�a incluyendo ureterectom�a;80.01;6
+905;Nefrectom�a radical con linfadenectom�a regional y/o trombectom�a de vena cava;106.29;6
+906;Nefrectom�a parcial;70.66;6
+907;Excisi�n de lesi�n, quiste renal o perin�frico;56.60;6
+908;Tratamiento quir�rgico de quiste renal v�a anterior o lumbotom�a por v�a laparosc�pica;75.94;6
+909;Transplante renal;404.14;6
+910;Aspiraci�n y/o inyecci�n con aguja, de quiste o pelvis renal;31.00;6
+911;Pieloplast�a;47.98;6
+912;Pieloplast�a complicada;56.60;6
+913;Nefrorrafia;47.98;6
+914;Cierre de f�stula nefrocut�nea o pielocut�nea;56.60;6
+915;Cierre de f�stula nefrovesical;70.66;6
+916;Sinfisiotom�a por ri��n en herradura;61.32;6
+917;Ureterotom�a;47.98;6
+918;Ureterolitotom�a;47.98;6
+919;Ureterectom�a;56.60;6
+920;Ureteroplast�a;65.23;6
+921;Ureterolisis;47.98;6
+922;Revisi�n de anastomosis urinaria-cut�nea (urostom�a);47.98;6
+923;Ureteropielostom�a, Ureterocalicostom�a;61.32;6
+924;Ureteroureterostom�a;56.60;6
+925;Ureteroneocistostom�a;110.18;6
+926;Ureteroenterostom�a;119.36;6
+927;Ureterosigmoidostom�a;119.36;6
+928;Desmontado de desviaci�n urinaria;73.85;6
+929;Reemplazo de la totalidad o parte del ur�ter con segmento de intestino;143.21;6
+930;Apendico-vesicostom�a cut�nea;70.66;6
+931;Ureterostom�a, transplante de ur�ter a piel;56.60;6
+932;Ureterorrafia;56.60;6
+933;Cierre de fistula ureterovisceral;56.60;6
+934;Cierre de f�stula ureterovesical;56.60;6
+935;Ligadura de ur�ter;39.35;6
+936;Cistotom�a o cistostom�a;29.40;6
+937;Cistolitotom�a;29.40;6
+938;Drenaje de absceso de espacio perivesical o prevesical;29.40;6
+939;Excisi�n de quiste del uraco o de seno uracal;29.40;6
+940;Cistectom�a parcial;35.05;6
+941;Cistectom�a completa;40.69;6
+942;Cistectom�a completa con linfadenectom�a regional p�lvica;56.30;6
+943;Cistectom�a completa con derivaci�n ureteral a intestinos o piel;89.18;6
+944;Cistectom�a completa con derivaci�n ureteral a intestinos o piel con linfadenectom�a regional p�lvica;114.77;6
+945;Irrigaci�n de la vejiga, simple, lavado y/o instilaci�n;24.93;6
+946;Cistoplast�a o cistouretroplast�a;40.69;6
+947;Vesicouretropexia anterior o uretropexia;40.69;6
+948;Suspensi�n del cuello vesical abdomino-vaginal;40.69;6
+949;Cistorrafia;29.40;6
+950;Cierre de cistostom�a;35.05;6
+951;Tratamiento quir�rgico de f�stulas vesicales;35.05;6
+952;Cierre de extrofia vesical;44.08;6
+953;Enterocistoplast�a;44.08;6
+954;Vesicostom�a cut�nea;25.64;6
+955;Uretrotom�a o uretrostom�a;21.09;6
+956;Meatotom�a;17.82;6
+957;Drenaje de absceso periuretral profundo;38.36;6
+958;Uretrectom�a ;38.36;6
+959;Excisi�n de divert�culo de uretra;46.98;6
+960;Marsupializaci�n de divert�culo uretral;46.98;6
+961;Excisi�n o fulguraci�n de p�lipos uretrales;26.86;6
+962;Uretroplast�a;46.98;6
+963;Operaci�n para correcci�n de incontinencia urinaria masculina;55.61;6
+964;Uretromeatoplast�a;22.68;6
+965;Uretrorrafia en mujeres;32.61;6
+966;Uretrorrafia en hombres;38.36;6
+967;Cierre de uretrostom�a o de f�stula uretrocut�nea en hombres;55.61;6
+968;Excisi�n de placas de pene (Enfermedad de Peyronie);45.68;6
+969;Amputaci�n parcial de pene;46.98;6
+970;Amputaci�n completa de pene;55.61;6
+971;Amputaci�n radical de pene;69.58;6
+972;Circuncisi�n, Reci�n nacido;25.15;6
+973;Postectom�a;31.70;6
+974;Plast�a de pene ;45.68;6
+975;Shunt de Cuerpos cavernosos con vena safena por priapismo;72.86;6
+976;Biopsia de test�culo incisional;18.58;6
+977;Excisi�n de lesi�n local de test�culo;22.15;6
+978;Orquiectom�a simple;29.77;6
+979;Orquiectom�a bilateral;35.36;6
+980;Orquiectom�a radical por tumor ;53.62;6
+981;Orquiectom�a por v�a laparosc�pica;75.94;6
+982;Exploraci�n de test�culos no descendidos;35.43;6
+983;Reducci�n quir�rgica de torsi�n testicular ;40.95;6
+984;Orquidopexia ;36.37;6
+985;Inserci�n de pr�tesis testicular;29.77;6
+986;Sutura o reparaci�n de lesi�n testicular;35.36;6
+987;Transplante de test�culo a muslo (por destrucci�n escrotal);56.60;6
+988;Exploraci�n de epid�dimo c/s biopsia;24.66;6
+989;Excisi�n de lesi�n local de epid�dimo;22.64;6
+990;Epididectom�a unilateral;33.50;6
+991;Epididectom�a bilateral;42.12;6
+992;Epididimoovasostom�a, anastomosis del epid�dimo al conducto deferente unilateral;62.25;6
+993;Excisi�n de hidrocele;35.36;6
+994;Reparaci�n de hidrocele ;35.36;6
+995;Extracci�n de cuerpo extra�o en escroto;24.17;6
+996;Resecci�n de escroto;43.75;6
+997;Escrotoplast�a ;60.52;6
+998;Vasectom�a uni o bilateral;28.21;6
+999;Vasectom�a por v�a laparosc�pica;45.99;6
+1000;Vasovasostom�a, vasovasorrafia;70.87;6
+1001;Ligadura percut�nea de conducto deferente;28.21;6
+1002;Excisi�n de lesi�n de Cord�n esperm�tico;28.21;6
+1003;Excisi�n de varicocele o ligadura de venas esperm�ticas debido a varicocele;24.17;6
+1004;Tratamiento de varicocele por laparoscopia;49.15;6
+1005;Vesiculotom�a;43.75;6
+1006;Vesiculectom�a;52.13;6
+1007;Prostatotom�a, drenaje externo de absceso prost�tico ;32.66;6
+1008;Prostatectom�a perineal, subtotal;56.60;6
+1009;Prostatectom�a perineal radical;66.22;6
+1010;Prostatectom�a suprap�bica, subtotal;56.60;6
+1011;Prostatectom�a retrop�bica, subtotal;65.22;6
+1012;Prostatectom�a retrop�bica radical;73.85;6
+1013;Colocaci�n transperineal de agujas o cat�teres en celda prost�tica para radiaci�n;39.35;6
+1014;Marsupializaci�n de quiste de Gl�ndula de Bartholin;22.15;6
+1015;Vulvectom�a simple parcial o total;52.13;6
+1016;Vulvectom�a radical ;85.68;6
+1017;Excisi�n de Gl�ndula de Bartholin;43.75;6
+1018;Reparaci�n pl�stica de introito;35.36;6
+1019;Colpotom�a con exploraci�n;52.13;6
+1020;Destrucci�n de lesiones vaginales;26.98;6
+1021;Vaginectom�a parcial;85.68;6
+1022;Vaginectom�a completa;105.37;6
+1023;Colpocleisis;88.12;6
+1024;Excisi�n de tabique, quiste o tumor vaginal;52.13;6
+1025;Colpoperrineorrafia;52.13;6
+1026;Operaci�n pl�stica del esf�nter uretral;85.68;6
+1027;Reparaci�n pl�stica de uretrocele;45.00;6
+1028;Colporrafia anterior ;45.00;6
+1029;Colporrafia posterior ;36.37;6
+1030;Colporrafia anteroposterior;53.62;6
+1031;Tratamiento quir�rgico de enterocele;39.25;6
+1032;Colpopexia ;45.00;6
+1033;Reparaci�n de defecto paravaginal;36.37;6
+1034;Construcci�n de neovagina artificial;76.78;6
+1035;Tratamiento quir�rgico de f�stulas vaginales;62.25;6
+1036;Dilataci�n y/o extirpaci�n de cuerpo extra�o de vagina bajo anestesia;27.94;6
+1037;Legrado endocervical;22.64;6
+1038;Conizaci�n de c�rvix ;35.36;6
+1039;Traquelectom�a, amputaci�n de c�rvix;45.00;6
+1040;Traquelectom�a radical ;56.50;6
+1041;Excisi�n de mu�on cervical ;52.13;6
+1042;Cerclaje de c�rvix ;43.75;6
+1043;Traquelorrafia;26.98;6
+1044;Dilataci�n y legrado, diagn�stico y/o terap�utico;22.83;6
+1045;Legrado postparto;17.81;6
+1046;Histerotom�a abdominal;56.76;6
+1047;Histerorrafia por ruptura uterina;56.76;6
+1048;Miomectom�a uterina, v�a abdominal;56.76;6
+1049;Miomectom�a uterina, v�a vaginal;56.76;6
+1050;Miomectom�a por v�a laparosc�pica;66.40;6
+1051;Miomectom�a histerosc�pica;89.77;6
+1052;Histerectom�a abdominal total c/s anexectom�a;108.51;6
+1053;Histerectom�a abdominal supracervical c/s anexectom�a;91.26;6
+1054;Histerectom�a abdominal total, incluyendo vaginectom�a y biopsia ganglionar c/s anexectom�a;126.76;6
+1055;Histerectom�a abdominal radical con linfandenectom�a p�lvica total bilateral y biopsia de ganglios paraa�rticos c/s anexectom�a ;192.17;6
+1056;Exenteraci�n p�lvica ;188.14;6
+1057;Histerectom�a vaginal;74.01;6
+1058;Histerectom�a vaginal con anexectom�a;91.26;6
+1059;Histerectom�a vaginal con colpectom�a parcial o total;108.51;6
+1060;Histerectom�a vaginal radical;125.76;6
+1061;Histerectom�a vaginal asistida por laparoscopia;141.99;6
+1062;Extracci�n de DIU ect�pico;56.15;6
+1063;Suspensi�n uterina c/s acortamiento de ligamentos;56.76;6
+1064;Histeroplast�a;74.01;6
+1065;Histeroscopia quir�rgica con lisis de adherencias intrauterinas, divisi�n de tabique intrauterino, extirpaci�n de tumores, ablaci�n endometrial, toma de muestra;49.59;6
+1066;Atenci�n obst�trica de rutina: atenci�n preparto, parto por ces�rea y atenci�n postparto;100.36;6
+1067;Ces�rea;64.72;6
+1068;Ces�rea + histerectom�a;117.32;6
+1069;Evacuaci�n uterina de �bito fetal + legrado uterino;39.51;6
+1070;Tratamiento quir�rgico de embarazo ect�pico;62.51;6
+1071;Tratamiento laparosc�pico de embarazo ect�pico ;97.96;6
+1072;Ligadura o transecci�n de trompas de Falopio;29.77;6
+1073;Salpingostom�a por v�a laparosc�pica;64.93;6
+1074;Oclusi�n de trompas de Falopio;26.98;6
+1075;Salpingectom�a unilateral o bilateral;43.75;6
+1076;Bloqueo tub�rico bilateral por v�a laparosc�pica;46.58;6
+1077;Salpingo-ooforectom�a unilateral o bilateral;43.75;6
+1078;Salpingo-ooforectom�a parcial o total por v�a laparosc�pica;75.94;6
+1079;Lisis de adherencias: salpingolisis;43.75;6
+1080;Anastomosis tubotubaria;85.68;6
+1081;Fimbrioplast�a;68.90;6
+1082;Fimbrioplast�a por v�a laparosc�pica;119.97;6
+1083;Salpingoplast�a;60.52;6
+1084;Drenaje de quistes , absceso ov�rico;43.75;6
+1085;Biopsia de ovario;35.36;6
+1086;Resecci�n en cu�a de ovario;43.75;6
+1087;Cistectom�a ov�rica, uni o bilateral;52.13;6
+1088;Excisi�n de lesiones de ovario, visceras p�lvicas, o superficie peritoneal por v�a laparosc�pica;75.94;6
+1089;Ooforectom�a parcial o total, uni o bilateral;60.52;6
+1090;Tratamiento quir�rgico de la endometriosis I - II;47.98;6
+1091;Tratamiento quir�rgico de la endometriosis III - IV;91.10;6
+1092;Lobectom�a tiroidea parcial ;56.60;6
+1093;Lobectom�a tiroidea total ;65.23;6
+1094;Tiroidectom�a total ;80.01;6
+1095;Tiroidectom�a total o subtotal  con disecci�n conservadora de cuello;98.69;6
+1096;Tiroidectom�a total o subtotal con disecci�n radical de cuello ;117.38;6
+1097;Excisi�n de quiste o seno del conducto tirogloso;56.60;6
+1098;Paratiroidectom�a o exploraci�n de paratiroides;70.66;6
+1099;Autotransplante de paratiroides;86.16;6
+1100;Timectom�a parcial o total;80.01;6
+1101;Adrenalectom�a parcial o completa ;80.01;6
+1102;Adrenalectom�a parcial o total por v�a laparosc�pica;123.70;6
+1103;Excisi�n de tumor del cuerpo carot�deo s/excisi�n de arteria car�tida;73.85;6
+1104;Excisi�n de tumor del cuerpo carot�deo con de excisi�n de arteria car�tida;98.69;6
+1105;Punci�n evacuadora subdural en lactante;30.70;6
+1106;Punci�n ventricular;28.34;6
+1107;Punci�n cisternal;28.34;6
+1108;Trepano punci�n para drenaje ventricular;47.98;6
+1109;Trepanaci�n para biopsia cerebral;73.85;6
+1110;Trepanaci�n para drenaje de absceso o quiste cerebral ;73.85;6
+1111;Trepanaci�n para drenaje de hematoma subdural o extradural;73.85;6
+1112;Trepanaci�n para colocaci�n de sistemas de medici�n de presi�n intracraneal;56.60;6
+1113;Inserci�n de dispositivo subcut�neo, bomba o sistema de infusi�n continua para conectar con un cat�ter ventricular;73.85;6
+1114;Trepanaci�n exploratoria supratentorial;73.85;6
+1115;Trepanaci�n exploratoria infratentorial;73.85;6
+1116;Craniectom�a o craneotom�a exploratoria supratentorial ;121.86;6
+1117;Craniectom�a o craneotom�a exploratoria infratentorial;121.86;6
+1118;Craniectom�a o craneotom�a para evacuaci�n de hematoma supratentorial, epidural, subdural o intracerebral;140.55;6
+1119;Craniectom�a o craneotom�a para evacuaci�n de hematoma infratentorial, epidural, subdural o intracerebelar;140.55;6
+1120;Craniectom�a o craneotom�a para extripaci�n de lesiones parenquimales supratentoriales ;177.92;6
+1121;Craniectom�a o craneotom�a para extripaci�n de lesiones parenquimales infratentoriales ;215.30;6
+1122;Craniectom�a suboccipital con laminectom�a cervical para descompresi�n de bulbo y m�dula espinal ;177.92;6
+1123;Craneotom�a para secci�n de tienda del cerebelo;252.67;6
+1124;Craneotom�a para lesiones de base de cr�neo y �rbita con microcirug�a ;322.78;6
+1125;Craneotom�a por lobotom�a incluyendo cingulotom�a;252.67;6
+1126;Craniectom�a con excisi�n de tumor u otra lesi�n �sea del cr�neo;177.92;6
+1127;Craneotom�a para extirpaci�n de lesiones hemisf�ricas cerebrales y ventriculares con microcirug�a;299.72;6
+1128;Craneotom�a para extirpaci�n de lesiones de tronco cerebral, IV ventr�culo y gl�ndula pineal;327.43;6
+1129;Lobectom�a temporal ;191.61;6
+1130;Hemisferiectom�a total;352.61;6
+1131;Hemisferiectom�a parcial;272.11;6
+1132;Craneotom�a para hipofisectom�a o excisi�n de tumor hipofisiario, abordaje intracraneal;312.36;6
+1133;Hipofisectom�a o excisi�n de tumor hipofisiario, abordaje transnasal o transeptal;231.86;6
+1134;Craniectom�a por craneosinostosis;140.55;6
+1135;Craniectom�a amplia por craneosinostosis de varias suturas craneales;215.30;6
+1136;Craniectom�a o craneotom�a c/excisi�n de cuerpo extra�o en cerebro;177.92;6
+1137;Craniectom�a o craneotom�a con tratamiento de herida penetrante en cerebro;191.61;6
+1138;Abordaje transoral de base de cr�neo, tronco encef�lico o m�dula espinal alta para biopsia, descompresi�n o excisi�n de lesiones;352.61;6
+1139;Cirug�a de arteria car�tida en el seno cavernoso o en canal petroso;290.05;6
+1140;Oclusi�n transcat�ter o embolizaci�n ;103.17;6
+1141;Craenotom�a y/o craniectom�a para tratamiento de malformaciones arteriovenosas ;272.11;6
+1142;Cirug�a para aneurisma intracraneal abordaje intracraneal;373.12;6
+1143;Cirug�a para aneurisma intracraneal, abordaje cervical ;312.36;6
+1144;Cirugia para aneurisma, malformaci�n vascular o f�stula  car�tida cavernosa ;390.24;6
+1145;Anastomosis arterial, arterias extracraneal-intracraneal;272.11;6
+1146;Cirug�as craneales por estereotaxia;352.61;6
+1147;Trepano-punci�n para colocaci�n de electrodos intracraneales;73.85;6
+1148;Craniectom�a o craneotom�a para implantaci�n o remoci�n de electrodos intracraneales;140.55;6
+1149;Levantamiento de fractura de cr�neo deprimida ;95.23;6
+1150;Levantamiento de fractura de cr�neo con reparaci�n de duramadre o debridamiento de tejido cerebral;140.55;6
+1151;Craneotom�a para reparaci�n de escape de LCR, incluyendo cirugia para rinorrea/otorrea;177.92;6
+1152;Craneoplast�a;140.55;6
+1153;Ventriculocisternostom�a;140.55;6
+1154;Derivaci�n subaracnoideo/subdural -atrial, -yugular,-auricular;103.17;6
+1155;Derivaci�n subaracnoideo/subdural -peritoneal, -pleural, otros ;103.17;6
+1156;Ventriculocisternostom�a, tercer ventr�culo;177.92;6
+1157;Derivaci�n ventr�culo-atrial, -yugular,-auricular;95.23;6
+1158;Derivaci�n ventr�culo-peritoneal, -pleural, otros ;95.23;6
+1159;Reemplazo o revisi�n de derivaci�n de LCR, v�lvula obstruida o cat�ter distal;95.23;6
+1160;Implante, revisi�n, reposicionamiento o remoci�n de cat�ter intratecal o epidural;70.99;6
+1161;Implante, reemplazo o remoci�n de reservorio o bomba subcut�nea para infusi�n intratecal o epidural;58.85;6
+1162;Laminectom�a descompresiva por lesi�n de canal vertebral;127.59;6
+1163;Laminotom�a (hemilaminectom�a), excisi�n de hernia discal;110.34;6
+1164;Laminectom�a, facetectom�a y foraminotom�a ;110.34;6
+1165;Abordaje transpedicular con descompresi�n de m�dula espinal, cola de caballo y/o ra�ces nerviosas;175.59;6
+1166;Abordaje costovertebral con descompresi�n de m�dula espinal, cola de caballo y/o ra�ces nerviosas;212.97;6
+1167;Corpectom�a vertebral (resecci�n de cuerpo vertebral) parcial o completa, abordaje anterior ;287.72;6
+1168;Corpectom�a vertebral (resecci�n de cuerpo vertebral) parcial o completa, abordaje transtor�cico ;269.60;6
+1169;Corpectom�a vertebral (resecci�n de cuerpo vertebral) parcial o completa, abordaje combinado toracolumbar ;350.11;6
+1170;Corpectom�a vertebral (resecci�n de cuerpo vertebral) parcial o completa, abordaje transperitoneal o retroperitoneal;309.85;6
+1171;Laminectom�a con mielotom�a, cervical, tor�cica o toracolumbar;212.97;6
+1172;Laminectom�a y derivaci�n siringo-aracnoideas o siringo-peritoneal ;212.97;6
+1173;Laminectom�a con rizotom�a;175.59;6
+1174;Laminectom�a con cordotom�a ;175.59;6
+1175;Laminectom�a para excisi�n u oclusi�n de malformaci�n arteriovenosa de m�dula espinal ;250.35;6
+1176;Laminectom�a para biopsia, excisi�n o evacuaci�n de lesi�n intraespinal;212.97;6
+1177;Laminectom�a para implantaci�n de electrodos espinales ;95.60;6
+1178;Revisi�n o retiro de electrodos espinales;126.59;6
+1179;Correcci�n quir�rgica de defectos cong�nitos o adquiridos de columna vertebral y/o m�dula espinal;212.97;6
+1180;Injerto dural espinal;212.97;6
+1181;Laminectom�a para derivaci�n de l�quido c�falorraquideo en m�dula espinal;175.59;6
+1182;Derivaci�n de l�quido cefalorraquideo en m�dula espinal, percut�neo;49.26;6
+1183;Excisi�n de neuroma, neurofibroma, neurolemoma;172.37;6
+1184;Simpatectom�a y gangliectom�a simp�tica;125.60;6
+1185;Reconstrucci�n microquir�rgica de nervio perif�rico;136.07;6
+1186;Reconstrucci�n microquir�rgica de Plexo braquial o lumbosacro;248.20;6
+1187;Reconstrucci�n microquir�rgica de pares craneales;210.82;6
+1188;Anastomosis facial-espinal accesorio, facial-hipogloso, facial-fr�nico;210.82;6
+1189;Neurorrafia con injerto de nervio;210.82;6
+1190;Evisceraci�n de contenidos oculares;46.64;6
+1191;Enucleaci�n de Globo ocular;58.77;6
+1192;Exenteraci�n de la �rbita;119.58;6
+1193;Remoci�n de implante ocular;34.50;6
+1194;Extracci�n de cuerpo extra�o intraocular, de c�mara anterior o cristalino;47.97;6
+1195;Extracci�n de cuerpo extra�o intraocular, de  segmento posterior;79.01;6
+1196;Correcci�n de laceraci�n de conjuntiva, sutura directa;28.61;6
+1197;Sutura de herida corneal;32.65;6
+1198;Correcci�n de herida de m�sculo extraocular, tend�n y/o c�psula de Tenon;46.07;6
+1199;Excisi�n de lesi�n c�rnea (queratectom�a);40.74;6
+1200;Biopsia de c�rnea;28.02;6
+1201;Excisi�n o tranposici�n de pterigion;30.52;6
+1202;Remoci�n de epitelio corneal ;25.52;6
+1203;Queratoplast�a,  Transplante de c�rnea;63.43;6
+1204;Queratopr�tesis;58.55;6
+1205;Queratotom�a radial;46.07;6
+1206;Paracentesis de c�mara anterior de ojo;26.41;6
+1207;Goniotom�a;47.97;6
+1208;Trabeculotom�a ;39.65;6
+1209;Trabeculoplast�a ;43.81;6
+1210;Secci�n de adherencias de segmento anterior, t�cnica de l�ser;35.49;6
+1211;Secci�n de adherencias de segmento anterior con t�cnica incisional, gonisinequia;47.97;6
+1212;Excisi�n de lesi�n en escler�tica;28.02;6
+1213;Derivaci�n del humor acuoso a reservorio extraocular;46.07;6
+1214;Correcci�n de estafiloma escleral;37.75;6
+1215;Iridotom�a;34.50;6
+1216;Iridectom�a;35.49;6
+1217;Correcci�n de iris, cuerpo ciliar;47.97;6
+1218;Destrrucci�n de Cuerpo ciliar;43.81;6
+1219;Iridotom�a / Iridectom�a por l�ser;35.49;6
+1220;Destrucci�n de quiste o de lesiones del iris o cuerpo ciliar;41.73;6
+1221;Cirug�a de catarata ;39.65;6
+1222;Cirug�a de catarata con facoemulsificaci�n;50.34;6
+1223;Extracci�n de catarata con inserci�n de lente intraocular;41.73;6
+1224;Inserci�n de lente intraocular no asociado con remoci�n de catarata;35.49;6
+1225;Implante secundario de lente intraocular;37.37;6
+1226;Vitrectom�a anterior;39.65;6
+1227;Aspiraci�n o liberaci�n de v�treo, flu�do subretinal o coroidal v�a pars plana;37.57;6
+1228;Inyecci�n intrav�treo de agentes farmacol�gicos;31.32;6
+1229;Secci�n de adherencias v�treas, l�minas, membranas, opacidades con l�ser;35.49;6
+1230;Vitrectom�a mec�nica v�a pars plana;57.71;6
+1231;Vitrectom�a con fotocoagulaci�n endol�ser;64.07;6
+1232;Correcci�n de desprendimiento de retina;79.01;6
+1233;Correcci�n de desprendimiento de retina con vitrectom�a;106.05;6
+1234;Profilaxis de desprendimiento de retina;47.97;6
+1235;Destrucci�n de lesi�n localizada de retina;39.65;6
+1236;Destrucci�n de lesi�n localizada de coroides;42.95;6
+1237;Destrucci�n de retinopat�a extensa o progresiva;42.95;6
+1238;Cirug�a para estrabismo;47.14;6
+1239;Quimiodenervaci�n de m�sculo extraocular;30.50;6
+1240;Biopsia de m�sculo extraocular;29.65;6
+1241;Aspiraci�n de contenidos orbitales con aguja fina;34.66;6
+1242;Inyecci�n retrobulbar;24.75;6
+1243;Implante orbitario;47.14;6
+1244;Descompresi�n del nervio �ptico;59.62;6
+1245;Blefarotom�a, drenaje de absceso en p�rpado;25.22;6
+1246;Blefaroplast�a, p�rpado inferior;27.24;6
+1247;Blefaroplast�a, p�rpado superior;31.29;6
+1248;Secci�n de tarsorrafia;27.24;6
+1249;Cantotom�a, Cantoplast�a;25.22;6
+1250;Excisi�n de chalazion;24.15;6
+1251;Correcci�n de triquiasis, epilaci�n;35.33;6
+1252;Excisi�n de lesiones, tumores de p�rpados ;43.42;6
+1253;Cierre temporal de p�rpados mediante sutura;27.24;6
+1254;Construcci�n de adherencias intermarginales, tarsorafia mediana o cantorafia;35.33;6
+1255;Cura quir�rgica de ptosis palpebral;35.33;6
+1256;Blefarorrafia;35.33;6
+1257;Extirpaci�n de cuerpo extra�o internalizado en p�rpado;25.22;6
+1258;Reconstrucci�n de p�rpado;43.42;6
+1259;Excisi�n de lesi�n de conjuntiva ;24.15;6
+1260;Inyecci�n subconjuntival;21.65;6
+1261;Conjuntivoplast�a;35.33;6
+1262;Recubrimiento conjuntival;35.33;6
+1263;Incisi�n, drenaje de tracto lacrimal;28.42;6
+1264;Excisi�n de gl�ndula lacrimal - saco lacrimal;30.50;6
+1265;Biopsia de gl�ndula lacrimal - saco lacrimal;26.34;6
+1266;Extracci�n de cuerpo extra�o en tracto lacrimal;34.66;6
+1267;Excisi�n de tumor de gl�ndula lacrimal;38.82;6
+1268;Correcci�n pl�stica de canal�culo;30.50;6
+1269;Dacriocistorrinostom�a;59.62;6
+1270;Conjuntivorrinostom�a;59.62;6
+1271;Sondeo de conducto nasolacrimal;28.42;6
+1272;Amputaci�n de pabell�n auricular;34.28;6
+1273;Excisi�n de exostosis, lesi�n de conducto auditivo externo;37.34;6
+1274;Excisi�n radical de lesi�n de conducto auditivo externo, con disecci�n de cuello;115.15;6
+1275;Otoplast�a;64.18;6
+1276;Reconstrucci�n de conducto auditivo externo (meatoplast�a) ;72.50;6
+1277;Reconstrucci�n de conducto auditivo externo por atresia cong�nita;72.50;6
+1278;Cateterizaci�n de trompa de Eustaquio, transtimp�nica;34.66;6
+1279;Miringotom�a ;34.66;6
+1280;Timpanostom�a;38.82;6
+1281;Timpanolisis transconducto;47.54;6
+1282;Antrotom�a transmastoidea;60.02;6
+1283;Mastoidectom�a completa;84.99;6
+1284;Mastoidectom�a radical;136.59;6
+1285;Apicectom�a p�trea, incluyendo mastoidectom�a radical;173.96;6
+1286;Resecci�n de hueso temporal;97.47;6
+1287;Excisi�n de p�lipo auditivo;60.02;6
+1288;Excisi�n tumor de glomus;69.53;6
+1289;Miringoplast�a;72.50;6
+1290;Timpanoplast�a sin mastoidectom�a;84.99;6
+1291;Timpanoplast�a con antrotom�a o mastoidotom�a;105.59;6
+1292;Timpanoplast�a con mastoidectom�a ;132.64;6
+1293;Movilizaci�n del estribo;78.55;6
+1294;Estapedectom�a o estapedotom�a;78.55;6
+1295;Correcci�n de f�stula de la ventana oval;78.55;6
+1296;Correcci�n de f�stula de la ventana redonda;78.55;6
+1297;Neurectom�a timp�nica;92.07;6
+1298;Implantaci�n o reemplazo de dispositivo de audici�n de conducci�n �sea;105.59;6
+1299;Descompresi�n de nervio facial;92.07;6
+1300;Sutura de nervio facial;92.07;6
+1301;Laberintotom�a;78.55;6
+1302;Operaci�n del saco endolinf�tico;105.59;6
+1303;Laberintectom�a;92.07;6
+1304;Laberintectom�a con mastoidectom�a;132.64;6
+1305;Secci�n del nervio vestibular, abordaje translaber�ntico;119.11;6
+1306;Implantaci�n de dispositivo coclear;119.11;6
+1307;Secci�n del nervio vestibular, abordaje transcraneal;119.11;6
+1308;Descompresi�n total del nervio facial ;119.11;6
+1309;Decompresi�n del conducto auditivo interno;119.11;6
+1310;Extirpaci�n de tumor, hueso temporal;92.07;6
+1311;Administraci�n de inmunizaci�n (incluye inyecciones percut�neas, intrad�rmicas, subcut�neas, intramusculares y/o administraci�n intranasal u oral);1.42;7
+1312;Infusi�n intravenosa de terapia o diagn�stico;3.35;7
+1313;Inyecci�n terap�utica o diagn�stica subucut�nea o intramuscular;1.42;7
+1314;Inyecci�n terap�utica o diagn�stica intra-arterial;3.82;7
+1315;Inyecci�n terap�utica o diagn�stica intravenosa;1.68;7
+1316;Sesi�n de acupuntura, una o m�s agujas;5.40;7
+1317;Biopsia de piel, tejido celular subcut�neo y/o membrana mucosa (incluye sutura simple), lesi�n simple.;3.82;7
+1318;Pruebas percut�neas con extractos alerg�nicos, reacci�n inmediata;2.86;7
+1319;Pruebas de parche de sensibilidad para alergias;2.58;7
+1320;Incisi�n y drenaje de abscesos;3.29;7
+1321;Incisi�n y drenaje, o extirpaci�n de quiste pilonidal;3.82;7
+1322;Incisi�n y retiro de cuerpo extra�o de tejido subcut�neo;4.00;7
+1323;Incisi�n y drenaje de hematoma, seroma o colecciones de fluidos;3.39;7
+1324;Punci�n aspiraci�n de absceso, hematoma, bula o quiste;3.04;7
+1325;Recorte  de lesiones hiperqueratoticas (ejm. callos);3.04;7
+1326;Extirpaci�n de verrugas ;3.39;7
+1327;Afeitado de lesiones d�rmicas o epid�rmicas;2.58;7
+1328;Excisi�n de lesiones ;4.00;7
+1329;Evacuaci�n de hematoma subungueal;3.39;7
+1330;Excisi�n de u�a y matriz ungueal, parcial o completa (ejm. u�a deformada).;3.82;7
+1331;Sutura simple de heridas superficiales, de 2.5 cm o menos;4.00;7
+1332;Sutura simple de heridas superficiales, de 2.6 cm a 10 cm;4.53;7
+1333;Sutura simple de heridas superficiales, mayor de 10 cm;4.88;7
+1334;Cierre en capas de heridas, menor de 2.5 cm;4.53;7
+1335;Cierre en capas de heridas, de 2.6 cm a 10 cm;4.88;7
+1336;Cierre en capas de heridas, mayor de 10 cm;5.76;7
+1337;Retiro de puntos bajo anestesia (que no sea anestesia local);11.24;7
+1338;Cambio de dresing y curaciones bajo anestesia (que no sea anestesia local);11.24;7
+1339;Destrucci�n con o sin curetaje quir�rgico, todas las lesiones benignas o premalignas (p. ej. Queratosis act�nica), incluyendo anestesia local;4.88;7
+1340;Cauterizaci�n qu�mica de tejido de granulaci�n;3.92;7
+1341;Destrucci�n de lesi�n maligna, cualquier m�todo;4.88;7
+1342;Crioterapia (nieve de di�xido de carbono, nitr�geno l�quido);3.92;7
+1343;Exfoliaci�n qu�mica de acn�;4.88;7
+1344;Actinoterapia (luz ultravioleta), sesi�n;2.64;7
+1345;Inserci�n de c�psulas anticonceptivas implantables;4.88;7
+1346;Retiro de c�psulas anticonceptivas implantables;3.39;7
+1347;Retiro con inserci�n de c�psulas contraceptivas implantables;4.88;7
+1348;Punci�n aspirativa de quiste de mama;4.00;7
+1349;Biopsia de mama;6.62;7
+1350;Excisi�n de quiste, fibroadenoma u otros tejidos aberrantes benignos, ductales, de areola o pez�n;8.24;7
+1351;Biopsia de m�sculo;4.00;7
+1352;Biopsia de hueso;4.88;7
+1353;Artrocentesis, aspiraci�n y/o inyecci�n;3.82;7
+1354;Control de la presi�n del l�quido intersticial en la detecci�n de s�ndrome compartimental muscular;6.96;7
+1355;Artroscopia diagn�stica;15.00;7
+1356;Extirpaci�n de cuerpo extra�o subcut�neo, en m�sculo o vaina tendinosa;7.06;7
+1357;Aspiraci�n e inyecci�n para tratamiento de quiste �seo;4.00;7
+1358;Incisi�n y drenaje de absceso profundo o hematoma;7.06;7
+1359;Drenaje de vaina tendinosa ;4.53;7
+1360;Drenaje de bolsa sinovial;7.78;7
+1361;Extirpaci�n de dep�sitos calc�reos subdeltoideos (o intratendinosos);11.77;7
+1362;Excisi�n de gangli�n de mu�eca (dorsal o palmar);5.59;7
+1363;Tratamiento cerrado de fractura de clav�cula, costilla, r�tula, metacarpianos, metatarsianos, falanges;22.68;7
+1364;Tratamiento cerrado de fractura de estern�n, esc�pula, h�mero, c�bito y/o radio, huesos del carpo, huesos del tarso;27.27;7
+1365;Tratamiento cerrado de luxaci�n de hombro, codo, mu�eca;22.68;7
+1366;Tratamiento cerrado de luxaci�n carpometacarpiana, tarsometarsiana, metacarpofal�ngicas, metatarsofal�ngicas e interfal�ngicas;13.62;7
+1367;Tratamiento cerrado de fractura cocc�gea;11.68;7
+1368;Aplicaci�n de halo, incluyendo remoci�n;1.16;7
+1369;Aplicaci�n de cors�;3.55;7
+1370;Aplicaci�n de yeso corporal, hombro hasta caderas;13.62;7
+1371;Enyesado en figura de ocho;4.43;7
+1372;Enyesado tipo Velpeau;13.62;7
+1373;Aplicaci�n de yeso de hombro a mano (largo, del brazo);5.32;7
+1374;Aplicaci�n de yeso corto de brazo o pierna;4.43;7
+1375;Aplicaci�n de yeso de mano a antebrazo bajo (guante);3.55;7
+1376;Aplicaci�n de f�rula larga para el brazo o pierna;3.55;7
+1377;Aplicaci�n de f�rula corta para el brazo o pierna;3.02;7
+1378;Aplicaci�n de f�rula digital;2.31;7
+1379;Aplicaci�n de vendaje;1.42;7
+1380;Aplicaci�n de yeso en espiga de la cadera;14.68;7
+1381;Aplicaci�n de yeso largo para la pierna (muslo a tobillo o dedos);6.20;7
+1382;Aplicaci�n de yeso rotuliano con soporte para el tend�n;10.44;7
+1383;Aplicaci�n de yeso para pie zambo, moldeado, o manipulaci�n, largo o corto para la pierna;7.26;7
+1384;Remoci�n de yeso;1.67;7
+1385;Aplicaci�n de agente f�sico, energ�a t�rmica, ac�stica, luminosa, mec�nica, el�ctrica;6.20;7
+1386;Procedimiento terap�utico para desarrollar fuerza y resistencia al ejercicio, arco de movimiento y flexibilidad;5.73;7
+1387;T�cnicas de terapia manual;4.24;7
+1388;Biopsia intranasal;4.00;7
+1389;Cauterizaci�n y / o ablaci�n de mucosa de cornete nasal;4.12;7
+1390;Cauterizaci�n y / o taponamiento nasal anterior;4.12;7
+1391;Cauterizaci�n y / o taponamiento nasal posterior;6.86;7
+1392;Prueba directa de mucosa nasal de sensibilidad para alergias;2.58;7
+1393;Punci�n traqueal percut�nea con aspiraci�n y / o revisi�n;4.12;7
+1394;Biopsia pleural;5.22;7
+1395;Endoscopia nasal;4.12;7
+1396;Nasofaringoscopia con endoscopio;8.13;7
+1397;Laringoscopia indirecta;1.93;7
+1398;Laringoscopia directa;3.21;7
+1399;Broncoscopia;10.68;7
+1400;Espirometr�a, incluye registro gr�fico y capacidad vital ;8.36;7
+1401;Flujometr�a;1.89;7
+1402;Pruebas de esfuerzo pulmonar;6.17;7
+1403;Prueba de provocaci�n con histamina o metacolina, incluye espirometr�a;12.62;7
+1404;Drenaje de absceso o hematoma nasal;3.11;7
+1405;Inyecci�n dentro del cornete nasal;2.65;7
+1406;Extirpaci�n de cuerpo extra�o intranasal;2.93;7
+1407;Lavado por canulaci�n senos paranasales;7.22;7
+1408;Intubaci�n endotraqueal, procedimiento de urgencia;3.21;7
+1409;Traqueostom�a ;5.58;7
+1410;Cricotirotom�a;2.30;7
+1411;Revisi�n de traqueostom�a, sin rotaci�n de flap;1.65;7
+1412;Toracocentesis;3.94;7
+1413;Pleurodesis;7.17;7
+1414;Toracostom�a;5.94;7
+1415;Neumot�rax terap�utico;9.31;7
+1416;Nebulizaci�n con presi�n positiva intermitente ;6.25;7
+1417;Oxigenoterapia, sesi�n en emergencia;4.00;7
+1418;Aerosolterapia, sesi�n en emergencia;1.94;7
+1419;Electrocardiograma;2.87;7
+1420;Prueba de esfuerzo (incluye electrocardiograma antes, durante y despues del ejercicio );10.65;7
+1421;Control electrocardiogr�fico durante 24 horas (Holter);12.11;7
+1422;Ecocardiograf�a transtor�cica;13.89;7
+1423;Ecocardiograf�a transesof�gica;15.86;7
+1424;Ecocardiograf�a doppler;14.82;7
+1425;Cateterismo card�aco derecho (swan ganz);36.56;7
+1426;Monitoreo intracavitaria swan - ganz;29.41;7
+1427;Cateterismo cardiaco izquierdo y derecho;70.49;7
+1428;Cateterismo venoso central;7.08;7
+1429;Monitoreo presi�n arterial 24 horas;7.72;7
+1430;Cateterizaci�n percut�nea de vena porta;45.62;7
+1431;Colocaci�n de cat�ter venoso central (p. ej. para presi�n venosa central, quimioterapia, otros);7.08;7
+1432;Cateterismo venoso para toma selectiva de muestras de sangre de distintos �rganos;8.43;7
+1433;Punci�n arterial, extracci�n de sangre para diagn�stico;1.93;7
+1434;Cateterismo o canulaci�n arterial (toma de muestra, monitorizaci�n o transfusi�n);4.12;7
+1435;Cateterismo arteria umbilical, reci�n nacido;5.22;7
+1436;Cateterismo de vena umbilical, reci�n nacido;5.22;7
+1437;Pericardiocentesis;4.37;7
+1438;Cardioversi�n fuera de cuidados intensivos ;2.52;7
+1439;Colocaci�n de sten coronario;71.95;7
+1440;Angioplast�a coronaria - revascularizaci�n miocardiaca;71.95;7
+1441;Valvuloplast�a percut�nea de bal�n;71.95;7
+1442;Inserci�n de marcapaso permanente ;64.09;7
+1443;Inserci�n o reemplazo de electrodo card�aco o cat�ter marcapasos provisorios;34.01;7
+1444;Inyecci�n de soluci�n esclerosante;7.04;7
+1445;Drenaje de absceso de ganglio linf�tico o de linfadenitis;4.00;7
+1446;Biopsia o excisi�n de ganglios linf�ticos superficiales;4.88;7
+1447;Ultrasonido intravascular;8.70;7
+1448;Transfusi�n de sangre o componentes sangu�neos;4.63;7
+1449;Exangu�neotransfusi�n, reci�n nacido;18.55;7
+1450;Af�resis terap�utica (intercambio de plasma y/o de c�lulas);28.40;7
+1451;Biopsia de labios, cavidad oral;3.88;7
+1452;Incisi�n intraoral y drenaje de absceso, lesi�n, quiste, hematoma o cuerpo extra�o de cavidad oral, lengua, piso de la boca o estructuras dentoalveolares;5.76;7
+1453;Frenotom�a o frenectom�a (Incisi�n de frenillo labial o lingual) ;4.17;7
+1454;Excisi�n de lesi�n de mucosa y submucosa intra oral;5.23;7
+1455;Destrucci�n de lesi�n o cicatriz del vest�bulo de la boca mediante m�todos f�sicos;5.76;7
+1456;Incisi�n extraoral y drenaje de absceso, quiste o hematoma del piso de la boca;4.88;7
+1457;Biopsia de lengua o piso de la boca;4.32;7
+1458;Biopsia y ex�menes de tejidos orales duros;4.49;7
+1459;Examen bucal;3.06;7
+1460;Extracci�n dental simple;4.32;7
+1461;Aplicaci�n t�pica de fluoruro;3.27;7
+1462;Tratamientos restauradores (con amalgama, silicato, otros materiales);5.37;7
+1463;Tratamientos restauradores (con incrustaciones, coronas);9.79;7
+1464;Otros tratamientos restauradores;7.73;7
+1465;Endodoncias, recubrimientos pulpar;5.98;7
+1466;Endodoncias, pulpotom�as;8.60;7
+1467;Endodoncias, tratamiento de canales;8.60;7
+1468;Endodoncias, tratamiento periapical;5.98;7
+1469;Periodoncias, curetaje gingival y/o relleno �seo;7.73;7
+1470;Aplicaci�n de pr�tesis, removible completa o parcial;7.73;7
+1471;Aplicaci�n de pr�tesis fijas ;7.73;7
+1472;Ortodoncias;8.24;7
+1473;Drenaje de absceso de paladar o �vula;5.06;7
+1474;Biopsia de paladar, �vula;4.32;7
+1475;Excisi�n o destrucci�n de lesi�n de paladar, �vula;6.12;7
+1476;Drenaje de absceso de Gl�ndula Salival;5.23;7
+1477;Incisi�n y drenaje de absceso paratonsilar;5.06;7
+1478;Biopsia far�ngea;4.77;7
+1479;Extirpaci�n de cuerpo extra�o de faringe;3.81;7
+1480;Control de hemorragia naso-oro-far�ngea;5.06;7
+1481;Dilataci�n de es�fago (sesi�n);5.82;7
+1482;Taponamiento esofagog�strico con bal�n (tipo Sengstaaken);7.04;7
+1483;Intubaci�n esof�gica y obtenci�n de material;4.17;7
+1484;Manometr�a esof�gica de 24 horas;11.93;7
+1485;Test de perfusi�n �cida esof�gica (test de Bernstein);13.78;7
+1486;Monitoreo de pH esof�gico;15.83;7
+1487;Test de secreci�n g�strica acido basal ;13.78;7
+1488;Lavado g�strico por sonda nasog�strica;3.18;7
+1489;Fibro Endoscopia digestiva alta;10.53;7
+1490;Video Endoscopia digestiva alta;12.03;7
+1491;Colangio pancreatograf�a retr�grada endosc�pica (CPRE);61.77;7
+1492;Colocaci�n percut�nea de tubo de gastrostom�a;16.09;7
+1493;Biopsia de pared anorectal, abordaje anal;5.10;7
+1494;Proctosigmoidoscopia;6.33;7
+1495;Fibro Colonoscopia derecha ;14.21;7
+1496;Fibro Colonoscopia izquierda;10.49;7
+1497;Video Colonoscopia derecha;15.93;7
+1498;Video Colonoscopia izquierda;12.21;7
+1499;Incisi�n y drenaje de absceso perianal;4.10;7
+1500;Incisi�n de hemorroide trombosada;2.92;7
+1501;Anoscopia;4.33;7
+1502;Manometr�a anorrectal;14.06;7
+1503;Biopsia hep�tica, percut�nea;5.94;7
+1504;Biopsia de p�ncreas, percut�nea;45.31;7
+1505;Drenaje de absceso peritoneal, subfr�nico o retroperitoneal, percut�neo;21.88;7
+1506;Peritoneocentesis, paracentesis abdominal o lavado peritoneal;7.04;7
+1507;Drenaje de absceso perirrenal o renal, percut�neo;16.78;7
+1508;Biopsia renal percut�nea;5.94;7
+1509;Endoscopia renal;11.14;7
+1510;Litotripsia;23.01;7
+1511;Endoscopia ureteral;7.15;7
+1512;Aspiraci�n vesical;3.11;7
+1513;Cistometrograma;13.96;7
+1514;Uroflujometr�a;7.71;7
+1515;Cistouretroscopia;6.66;7
+1516;Drenaje transuretral de absceso prost�tico;6.68;7
+1517;Hemodi�lisis ;28.40;7
+1518;Hemofiltraci�n;28.40;7
+1519;Hemodiafiltraci�n;20.90;7
+1520;Di�lisis peritoneal intermitente;13.96;7
+1521;Di�lisis peritoneal cr�nica ambulatoria;12.71;7
+1522;Biopsia de uretra;6.46;7
+1523;Biopsia de pene;4.88;7
+1524;Biopsia testicular con aguja;4.12;7
+1525;Biopsia de epid�dimo con aguja;4.12;7
+1526;Biopsia de pr�stata;5.22;7
+1527;Dilataci�n de estrechez uretral ;4.88;7
+1528;Cateterizaci�n de uretra;3.11;7
+1529;Destrucci�n de lesiones en pene: condiloma, papiloma, molusco contagioso, herpes;4.00;7
+1530;Liberaci�n de adherencias balano prepuciales;3.11;7
+1531;Incisi�n y drenaje de epid�dimo, test�culo y/o espacio escrotal (p. ej. absceso o hematoma);4.88;7
+1532;Punci�n aspiraci�n de hidrocele, c/s inyecci�n de medicamento;4.88;7
+1533;Drenaje de absceso de pared escrotal;4.00;7
+1534;Incisi�n y drenaje de absceso perineal o vulvar;4.88;7
+1535;Destrucci�n de lesiones de vulva;4.88;7
+1536;Biopsia de vulva o perineo;4.88;7
+1537;Himenectom�a parcial ;3.39;7
+1538;Colpocentesis;5.06;7
+1539;Biopsia de mucosa vaginal;5.06;7
+1540;Inspecci�n p�lvica bajo anestesia;5.23;7
+1541;Colposcopia;4.79;7
+1542;Biopsia, excisi�n local de lesi�n en cuello uterino;5.06;7
+1543;Biopsia de endometrio;9.30;7
+1544;Histeroscopia diagn�stica;8.55;7
+1545;Cauterizaci�n de c�rvix ;5.94;7
+1546;Inserci�n o remoci�n de dispositivo intrauterino (DIU);5.06;7
+1547;Punci�n folicular para obtenci�n de �vulo ;16.55;7
+1548;Amniocentesis;22.87;7
+1549;Test de estr�s fetal;12.75;7
+1550;Inserci�n de dilatador cervical (p. ej. laminaria, prostaglandina);3.28;7
+1551;Atenci�n obst�trica de rutina: atenci�n preparto, parto vaginal (c/s episiotom�a y/o forceps) y atenci�n postparto;55.07;7
+1552;Parto vaginal solamente;15.81;7
+1553;Extracci�n de placenta retenida;15.11;7
+1554;Biopsia percut�nea de tiroides;4.12;7
+1555;Incisi�n y drenaje de quiste tirogloso ;5.22;7
+1556;Aspiraci�n de quiste tiroideo;4.12;7
+1557;Excisi�n de quiste o adenoma de tiroides o transecci�n del istmo;18.11;7
+1558;Electroencefalograma;7.88;7
+1559;Electromiograf�a y velocidad de conducci�n nerviosa;8.17;7
+1560;Potenciales evocados computarizados somato-sensoriales;9.81;7
+1561;Potenciales evocados computarizados visuales ;9.81;7
+1562;Biopsia de m�dula espinal, aguja percut�nea;5.94;7
+1563;Punci�n espinal, lumbar ;4.85;7
+1564;Implantaci�n percut�nea de electrodos espinales;6.13;7
+1565;Aspiraci�n percut�nea, quiste de m�dula espinal o cavidad siringomi�lica;6.13;7
+1566;Bloqueo de nervio perif�rico;5.03;7
+1567;Infiltraciones paravertebrales de troncos y ganglios simp�ticos;6.67;7
+1568;Implante, revisi�n o remoci�n de electrodos de nervios perif�ricos;16.15;7
+1569;Destrucci�n mediante agente neurol�tico de nervio perif�rico;16.15;7
+1570;Exploraci�n y liberaci�n de nervios perif�ricos;19.43;7
+1571;Refracci�n y medici�n de la visi�n;3.33;7
+1572;Gonioscopia;4.81;7
+1573;Campimetr�a y/o perimetr�a;6.93;7
+1574;Tonometr�a - curva de presi�n;5.49;7
+1575;Angiofluoresceinograf�a;12.55;7
+1576;Fondo de ojos;2.24;7
+1577;Oftalmodinamometr�a;6.74;7
+1578;Oculoelectromiograf�a;6.74;7
+1579;Retinograf�a ;8.08;7
+1580;Biopsia de p�rpado;4.61;7
+1581;Biopsia de conjuntiva;3.73;7
+1582;Raspado de c�rnea, diagn�stico;2.84;7
+1583;Pruebas de mucosa oft�lmica de sensibilidad para alergias;2.84;7
+1584;Ejercicios ort�pticos c/sesi�n;2.30;7
+1585;Extracci�n de cuerpo extra�o, superficie conjuntival;2.84;7
+1586;Incisi�n y drenaje de absceso, quiste, hematoma conjuntival;4.86;7
+1587;Destrucci�n de lesi�n de c�rnea por crioterapia, fotocoagulaci�n o termocoagulaci�n;6.36;7
+1588;Drenaje de pabell�n auricular o conducto auditivo externo, absceso o hematoma;3.11;7
+1589;Perforaci�n de l�bulos de las orejas;1.87;7
+1590;Biopsia de pabell�n auricular o conducto auditivo externo;4.00;7
+1591;Extracci�n de cuerpo extra�o del conducto auditivo externo;3.11;7
+1592;Remoci�n de cerumen impactado;3.82;7
+1593;Insuflaci�n de trompa de Eustaquio, transnasal;3.82;7
+1594;Audiometr�a;3.70;7
+1595;Timpanometr�a;7.01;7
+1596;Electrococleograf�a;7.47;7
+1597;Potenciales evocados auditivos;9.40;7
+1598;Maxilar inferior (3 placas);8.71;8
+1599;Mastoides (4 placas);9.22;8
+1600;Meatos auditivos internos;8.12;8
+1601;Maxilar superior (2 placas);8.12;8
+1602;Huesos nasales (2 placas);8.12;8
+1603;Dacriocistograf�a, conducto nasolagrimal;10.01;8
+1604;Agujeros �pticos (2 placas);8.12;8
+1605;Orbitas (2 placas);8.12;8
+1606;Senos paranasales (3 placas);8.71;8
+1607;Silla turca (2 placas);8.12;8
+1608;Craneo frontal y perfil (2 placas);8.12;8
+1609;Dientes;7.94;8
+1610;Dientes, boca entera;7.94;8
+1611;Articulaci�n Temporo maxilar (2 placas);8.12;8
+1612;Artrograf�a  temporomandibular;21.81;8
+1613;Laringograf�a (1 placa);22.11;8
+1614;Sialograf�a (3 placas);22.82;8
+1615;Tomograf�a axial computarizada de cabeza ;97.15;8
+1616;Tomograf�a axial computarizada de �rbita, silla turca o fosa posterior, u o�do externo, medio o interno;97.15;8
+1617;Tomograf�a axial computarizada zona maxilofacial;97.15;8
+1618;Tomograf�a axial computarizada de cuello;97.15;8
+1619;(Im�genes por) Resonancia magn�tica cabeza y/o cuello;173.59;8
+1620;T�rax frontal;8.12;8
+1621;T�rax frontal y lateral;8.75;8
+1622;Bronquiograf�a;23.27;8
+1623;Costillas, parrilla costal por lado (2 placas);8.75;8
+1624;Estern�n (2 placas);8.75;8
+1625;Tomograf�a axial computarizada de t�rax;97.15;8
+1626;(Im�genes por) Resonancia magn�tica t�rax;173.59;8
+1627;Columna vertebral completa;8.12;8
+1628;Columna vertebral vista �nica, cualquier nivel;8.12;8
+1629;Columna cervical antero posterior y lateral (2 placas);8.75;8
+1630;Columna cervical antero posterior, lateral y oblicua;9.53;8
+1631;Columna cervical funcional (4 placas);10.35;8
+1632;Columna dorsal f-p (2 placas);8.75;8
+1633;Columna dorsal f-p-o (4 placas);10.35;8
+1634;Columna dorso lumbar (2 placas);8.75;8
+1635;Columna lumbo sacra f-p (2 placas);8.75;8
+1636;Columna lumbo sacra f-p-o (4 placas);10.35;8
+1637;Tomograf�a axial computarizada de columna vertebral;97.15;8
+1638;(Im�genes por) Resonancia magn�tica de canal espinal y su contenido;173.59;8
+1639;Pelvis (1 placa);8.12;8
+1640;Pelvis completa (3 placas);9.53;8
+1641;Tomograf�a axial computarizada de pelvis;97.15;8
+1642;(Im�genes por) Resonancia magn�tica de pelvis;173.59;8
+1643;Articulaciones sacroil�acas;8.75;8
+1644;Mielograf�a de canal espinal;31.21;8
+1645;Discograf�a;19.99;8
+1646;Clav�cula (1 placa);8.07;8
+1647;Esc�pula;8.07;8
+1648;Hombro (2 placas);8.67;8
+1649;Artrograf�a  (5 placas), artrograf�a del hombro;23.32;8
+1650;H�mero (2 placas);8.67;8
+1651;Codo (2 placas);8.67;8
+1652;Artrograf�a  (5 placas)  artrograf�a del codo;23.32;8
+1653;Antebrazo (2 placas);8.67;8
+1654;Mu�eca (2 placas);8.67;8
+1655;Artrograf�a  (5 placas)  artrograf�a de mu�eca;23.32;8
+1656;Mano (2 placas);8.67;8
+1657;Dedos (1 placa);8.07;8
+1658;Tomograf�a axial computarizada de extremidad superior;97.15;8
+1659;(Im�genes por) Resonancia magn�tica de extremidad superior;173.59;8
+1660;Cadera coxofemoral (2 placas);8.67;8
+1661;Artrograf�a  (5 placas)  artrograf�a de cadera;23.32;8
+1662;Artrograf�a  (5 placas)  artrograf�a sacro iliaca;23.32;8
+1663;Muslo f�mur (2 placas);8.67;8
+1664;Rodilla (2 placas);8.67;8
+1665;Artrograf�a  (5 placas) artrograf�a rodilla;23.32;8
+1666;Pierna (2 placas);8.67;8
+1667;Tobillo (2 placas);10.08;8
+1668;Artrograf�a  (5 placas) artrograf�a tobillo;23.32;8
+1669;Pie (2 placas);8.67;8
+1670;Pies comparativos;8.67;8
+1671;Tomograf�a axial computarizada de extremidad inferior;97.15;8
+1672;(Im�genes por) Resonancia magn�tica de extremidad inferior;173.59;8
+1673;Simple de abdomen ;8.12;8
+1674;Tomograf�a axial computarizada de abdomen;97.15;8
+1675;(Im�genes por) Resonancia magn�tica de abdomen;173.59;8
+1676;Peritoneograma;18.57;8
+1677;Esofagograma (2 placas);18.57;8
+1678;Estudio a doble contraste de est�mago y duodeno (8 placas);23.97;8
+1679;Serie contrastada gastrointestinal alta (6 placas);27.94;8
+1680;Tr�nsito intestinal;26.29;8
+1681;Estudio radiogr�fico de colon a doble contraste (6 placas);30.12;8
+1682;Colecistograf�a oral (3 placas);16.65;8
+1683;Colangiograf�a endovenosa (3 placas);18.57;8
+1684;Colangiograf�a y/o pancreatograf�a trans-operatoria (2 placas);17.79;8
+1685;Colangiograf�a post operatoria (trans-kerh) (3 placas);18.34;8
+1686;Colangiograf�a transparietohep�tica (3  placas);23.41;8
+1687;Urograf�a excretoria (4 placas);29.02;8
+1688;Urograf�a excretoria por infusi�n (4 placas);29.02;8
+1689;Urograf�a retr�grada;23.96;8
+1690;Urograf�a funcional;32.45;8
+1691;Cistograf�a (2 placas);17.79;8
+1692;Uretrocistograf�a retr�grada (2 placas);19.48;8
+1693;Dilataci�n de nefrostom�a, ur�teres o uretra;12.69;8
+1694;Pelvimetr�a (3 placas);9.25;8
+1695;Histerosalpingograf�a (4 placas);14.35;8
+1696;Im�genes card�acas por Resonancia magn�tica ;173.41;8
+1697;Aortograf�a tor�cica;38.05;8
+1698;Aortograf�a abdominal;38.05;8
+1699;Arteriograf�a cervicocerebral (6 placas);50.38;8
+1700;Arteriograf�a braquial retr�grada;39.15;8
+1701;Arteriograf�a espinal;38.05;8
+1702;Arteriograf�a perif�rica (4 placas);39.15;8
+1703;Arteriograf�a visceral (6 placas);40.25;8
+1704;Linfangiograf�a;29.84;8
+1705;Espleno portograf�a (4 placas);30.94;8
+1706;Venograf�a perif�rica;29.84;8
+1707;Venograf�a Cava inferior (3 placas);30.39;8
+1708;Venograf�a Cava superior (3 placas);30.39;8
+1709;Venograf�a visceral;29.84;8
+1710;Portograf�a transhep�tica percut�nea;29.84;8
+1711;Edad �sea (1 placa);8.12;8
+1712;Medici�n de miembros (2 placas);8.75;8
+1713;Densitometr�a �sea (estudio de osteoporosis) (2 placas);11.75;8
+1714;Mamograf�a unilateral (2 placas);18.20;8
+1715;Mamograf�a bilateral (4 placas);21.40;8
+1716;(Im�genes de) Resonancia magn�tica de mama;173.68;8
+1717;Ecograf�a transfontanelar;8.71;8
+1718;Orbitas;7.88;8
+1719;Ecograf�a de tejidos blandos de cabeza y cuello;8.71;8
+1720;Ecograf�a de t�rax: opacidadaes pulmonares, colecciones l�quidas;8.71;8
+1721;Ecograf�a de mamas;8.71;8
+1722;Ecograf�a abdominal;10.36;8
+1723;Ecograf�a retroperitoneal;10.36;8
+1724;Ecograf�a renal;10.36;8
+1725;Ecograf�a canal espinal y contenido;10.36;8
+1726;Ecograf�a obst�trica ;8.71;8
+1727;Determinaci�n de perfil biofisico fetal;14.25;8
+1728;Ecocardiograf�a fetal;14.45;8
+1729;Ecograf�a transvaginal;15.49;8
+1730;Histerosonograf�a;18.41;8
+1731;Ecograf�a p�lvica (�tero y anexos);8.71;8
+1732;Ecograf�a de escroto y contenido;8.71;8
+1733;Ecograf�a transrectal;11.40;8
+1734;Ecograf�a de extremidades;8.71;8
+1735;Ecograf�a de cadera (ni�o);8.71;8
+1736;Electrolitos (Na, K, Cl);4.91;9
+1737;Perfil Prenatal (Hemograma 3ra. Generaci�n, Glucosa, VDRL, HIV, examen de orina, Rubeola);12.60;9
+1738;Perfil Preoperatorio (Hemograma 3ra. generaci�n, Grupos sangu�neo, factor Rh, Tiempo de Coagulaci�n y sangr�a, Tiempo de Protrombina, Glucosa, HIV, VDRL, Examen completo de orina);11.80;9
+1739;Perfil lip�dico (Colesterol total, HDL, LDL, VLDL, triglic�ridos y l�pidos totales);6.07;9
+1740;Perfil card�aco (CPK, CPK-MB, DHL, TGO);5.37;9
+1741;Perfil de coagulaci�n (plaquetas, tiempo de coagulaci�n y sangr�a, tiempo de protrombina, pttk, retracci�n del co�gulo);6.28;9
+1742;Perfil hep�tico (TGO, TGP, GGTP, Bbilirrubinas total y fraccionadas, Proteinas total y fracci�nadas);6.18;9
+1743;Perfil TORCH ;21.03;9
+1744;Amikacina;2.99;9
+1745;Benzodiazepinas;4.17;9
+1746;Carbamazepina (Tegretol);6.57;9
+1747;Ciclosporina;6.53;9
+1748;Digoxina;5.45;9
+1749;Acido valproico ;4.42;9
+1750;Gentamicina;4.53;9
+1751;Litio;1.75;9
+1752;Fenobarbital;6.88;9
+1753;Fenito�na;6.88;9
+1754;Primidona (misoline);6.69;9
+1755;Procainamida;4.34;9
+1756;Quinidina;2.65;9
+1757;Salicilatos ;2.48;9
+1758;Teofilina;6.17;9
+1759;Tobramicina;3.03;9
+1760;Vancomicina;4.36;9
+1761;Examen completo de orina;1.12;9
+1762;Sedimento urinario;0.91;9
+1763;Pregnosticon (diagnostico de embarazo) all in;1.39;9
+1764;Potasio (24 hrs.);1.07;9
+1765;Acetaminof�n;3.31;9
+1766;ACTH, dosaje;4.78;9
+1767;Alb�mina s�rica;0.91;9
+1768;Proteinuria (12 � 24 hrs.);0.91;9
+1769;Microalbuminuria (orina simple);3.20;9
+1770;Aldolasa;2.84;9
+1771;Aldosterona;9.43;9
+1772;Alfa 1 antitripsina ;3.20;9
+1773;AFP (alfa fetoproteina);5.92;9
+1774;Acido delta amino levul�nico;5.20;9
+1775;Amonio;2.74;9
+1776;Anfetamina o metanfetamina;4.40;9
+1777;Amilasa s�rica;1.37;9
+1778;Androstenediona ;8.95;9
+1779;Angiotensina II;8.95;9
+1780;Apolipoproteina;9.26;9
+1781;Beta 2 microglobulina;4.95;9
+1782;Bilirrubinas total y fracci�nadas;0.95;9
+1783;Sangre oculta en heces (thevenon);0.91;9
+1784;Calcio ;1.49;9
+1785;Calcio ionizado;2.12;9
+1786;C�lculos, ex�men f�sico;5.31;9
+1787;CEA (Ant�geno carcinoembrionario) ;8.95;9
+1788;Catecolaminas totales (orina) ;2.78;9
+1789;Ceruloplasmina;3.49;9
+1790;Cloro (24 hrs.);1.07;9
+1791;Colesterol total;2.15;9
+1792;Cortisol libre en orina de 24 hrs;4.15;9
+1793;Cortisol plasm�tico;4.99;9
+1794;Creatinfosfokinasa total (CPK);1.62;9
+1795;Creatinfosfokinasa - mb (CPK - MB);2.27;9
+1796;Creatinina;1.01;9
+1797;Creatinina (24 hrs.);1.07;9
+1798;Depuraci�n de creatinina endogena;1.62;9
+1799;Crioglobulinas ;1.05;9
+1800;Vitamina B12;9.26;9
+1801;Dehidroepinandrosterona sulfato DHEA - SO4;6.42;9
+1802;Eritropoyetina;3.60;9
+1803;Estradiol;5.77;9
+1804;Estr�genos;3.26;9
+1805;Estriol;5.71;9
+1806;Grasas en heces (cualitativo);1.49;9
+1807;Ferritina;4.02;9
+1808;Acido f�lico  ;4.48;9
+1809;Fructosa en semen;1.20;9
+1810;Galactosa;1.94;9
+1811;Gammaglobulina: Ig A, Ig D, Ig G, Ig M, cada una;3.56;9
+1812;Ig E;5.33;9
+1813;pH sangu�neo;0.91;9
+1814;Gases arteriales (AGA) ;3.92;9
+1815;Gastrina ;9.66;9
+1816;Glucagon;5.05;9
+1817;Glucosa basal;1.05;9
+1818;Glucosa, tolerancia oral a la;4.84;9
+1819;Glucosa 6 fosfato dehidrogenasa;3.81;9
+1820;Gamma glutamil transferasa;2.15;9
+1821;Fructosamina (glicoproteina);1.96;9
+1822;FSH (foliculoestimulante);6.42;9
+1823;LH (luteinizante);7.35;9
+1824;Hormona de crecimiento basal;6.46;9
+1825;Haptoglobina, dosaje;2.38;9
+1826;Metales pesados (ars�nico, bario, berilio, bismuto, antimonio, mercurio);4.27;9
+1827;Hemoglobina, fraccionamiento y an�lisis cuantitativo, electroforesis (p. Ej. A2, S, C o F);7.01;9
+1828;Hemoglobina, fraccionamiento y an�lisis cuantitativo, cromatograf�a (p. Ej. A2, S, C o F);3.71;9
+1829;Hemoglobina glucosilada ;3.85;9
+1830;Hemoglobina fetal;2.32;9
+1831;Hemosiderina;3.98;9
+1832;17 Hidroxicorticoides;2.76;9
+1833;5� Hidroxindolacetico (5�- HIAA);2.93;9
+1834;17 Hidroxiprogesterona;5.05;9
+1835;Hidroxiprolina;3.17;9
+1836;Insulina basal;6.29;9
+1837;Hierro s�rico, dosaje;2.97;9
+1838;17 ketoesteroides;5.45;9
+1839;Dehidrogenasa l�ctica (DHL);1.24;9
+1840;DHL 1 (isoenzima card�aca) ;3.85;9
+1841;Lactosa, tolerancia oral a la ;4.34;9
+1842;Lipasa;2.69;9
+1843;Lipidograma;4.70;9
+1844;Colesterol - HDL;1.77;9
+1845;Colesterol - VLDL;1.77;9
+1846;Colesterol - LDL;2.08;9
+1847;Magnesio;1.62;9
+1848;Opi�ceos (ej. morfina, meperidina);4.08;9
+1849;Osmolalidad s�rica;1.20;9
+1850;Osmolalidad (24 hrs.);1.20;9
+1851;Parathormona ;8.19;9
+1852;Fenilcetonurea (PKU);1.12;9
+1853;Fosfatasa �cida total ;1.49;9
+1854;Fosfatasa �cida prost�tica ;3.92;9
+1855;Fosfatasa alcalina;1.28;9
+1856;Fosfatasa alcalina, isoenzimas;1.94;9
+1857;Fosfol�pidos ;1.07;9
+1858;F�sforo inorg�nico;1.41;9
+1859;F�sforo en orina;1.41;9
+1860;Porfobilin�geno (Watson Scwartz) 24 hrs.;2.15;9
+1861;Uroporfirina ;2.19;9
+1862;Coproporfirina ;2.15;9
+1863;Potasio s�rico;2.51;9
+1864;Pregnandiol;3.94;9
+1865;Progesterona;5.92;9
+1866;Prolactina;5.71;9
+1867;PSA (Ant�geno prost�tico espec�fico);10.91;9
+1868;Prote�nas totales o fraccionadas;0.91;9
+1869;Proteinas fraccionadas;2.80;9
+1870;Proteinograma;4.44;9
+1871;Piruvato quinasa;3.37;9
+1872;Renina ;6.42;9
+1873;Riboflavina (Vitamina B2);9.26;9
+1874;Sodio s�rico;2.06;9
+1875;Somatomedina;10.51;9
+1876;Testosterona libre;6.04;9
+1877;Testosterona total;5.54;9
+1878;Tiamina (Vitamina B1);9.26;9
+1879;Tiroglobulina ;5.05;9
+1880;Tiroxina (T4) total;4.15;9
+1881;T4 libre ;4.21;9
+1882;TSH - (Hormona tiroestimulante);9.08;9
+1883;Tocoferol (Vitamina E);9.26;9
+1884;Transaminasa oxalac�tica (TGO);1.83;9
+1885;Transaminasa pir�vica (TGP);1.83;9
+1886;Transferrina ;6.29;9
+1887;Triglic�ridos ;1.18;9
+1888;Triyodotironina (T3);4.13;9
+1889;Nitrogeno ureico (BUN) y/o �rea;0.91;9
+1890;Acido �rico  en sangre;1.18;9
+1891;Acido �rico en orina;1.53;9
+1892;Urobilin�geno en heces;1.12;9
+1893;Urobilin�geno en orina;1.12;9
+1894;Acido vanil mand�lico;6.53;9
+1895;Vitamina A;9.26;9
+1896;Vitmina K;9.26;9
+1897;D-xilosa;6.04;9
+1898;Hormona Gonadotropina cori�nica cuantitativa;3.79;9
+1899;Hormona Gonadotropina cori�nica cualitativa;3.79;9
+1900;Tiempo de coagulaci�n y sangria;1.03;9
+1901;Hematocrito;0.40;9
+1902;Hemoglobina;0.65;9
+1903;Hemograma completo, 3ra. generaci�n (N�, F�rmula, Hb, Hto, Constantes corpusculares, Plaquetas);1.74;9
+1904;Constantes corpusculares;0.65;9
+1905;Reticulocitos, recuento de;1.11;9
+1906;Leucocitos, recuento de ;0.40;9
+1907;Eosin�filo, recuento de ;0.90;9
+1908;Extendido sangre perif�rica;0.65;9
+1909;Mielograma;4.24;9
+1910;Retracci�n de co�gulo;1.11;9
+1911;Factor VIII;2.00;9
+1912;Producto de degradaci�n de fibrinogeno (PDF);2.48;9
+1913;Fibrin�geno, dosaje de;1.60;9
+1914;Fragilidad globular � Fragilidad osm�tica;1.11;9
+1915;Recuento de plaquetas ;0.71;9
+1916;Tiempo de protrombina ;2.54;9
+1917;Velocidad de sedimentaci�n;0.40;9
+1918;Tiempo de trombina;0.78;9
+1919;Tiempo de tromboplastina ;2.48;9
+1920;Aglutinaciones tiphy, paratiphy o Brucella ;2.58;9
+1921;Anticuerpos anti-nucleares (AAN);5.01;9
+1922;Antiestreptolisina O (ASTO);2.97;9
+1923;Proteina C reactiva;3.56;9
+1924;Anticardiolipina ;7.83;9
+1925;Crioaglutininas, evaluaci�n;1.64;9
+1926;Complemento, ant�geno, cada componente;7.18;9
+1927;Complemento total hemol�tico (CH 50);5.37;9
+1928;Anti DNA (ss) ;8.84;9
+1929;Anti DNA Nativo (ds) ;5.39;9
+1930;Anticuerpos contra ant�geno nuclear (RNP, SS-A, SS-B, Sm);8.04;9
+1931;Inmunoensayo para ant�geno de tumor (Ca - 125 -Ovario, CA 15-3- mama);13.47;9
+1932;Inmunoelectroforesis suero;6.95;9
+1933;Inmunoelectroforesis, otros l�quidos;6.95;9
+1934;Ensayo de Complejos inmunes ;4.15;9
+1935;Anticuerpos contra la insulina;4.40;9
+1936;Linfocitos T, recuento total;5.71;9
+1937;Linfocitos T, recuento absoluto de CD4 y CD8;8.95;9
+1938;Factor reumatoideo (l�tex);3.33;9
+1939;Prueba cut�nea para Tuberculosis (PPD);2.48;9
+1940;Estreptococo beta hemol�tico (prueba r�pida);1.75;9
+1941;Prueba de s�filis cualitativa (VDRL, RPR, ART);1.12;9
+1942;Adenovirus, anticuerpos;4.03;9
+1943;Aspergilus,  anticuerpos;3.17;9
+1944;Brucelosis, anticuerpos;3.17;9
+1945;C�ndida albicans, anticuerpos;3.41;9
+1946;Clamidia sp., anticuerpos ;3.76;9
+1947;Citomegalovirus, anticuerpos;4.67;9
+1948;Echovirus, anticuerpos;4.03;9
+1949;Epstein Barr (nuclear), anticuerpos ;6.53;9
+1950;Epstein Barr (capsular) anticuerpos;6.53;9
+1951;HTLV o HIV 1, anticuerpos, prueba de confirmaci�n (Western Blot);29.37;9
+1952;Herpes simple 1, anticuerpos;6.69;9
+1953;Histoplasma, anticuerpos;3.17;9
+1954;HIV-1, anticuerpos;6.04;9
+1955;HIV-2, anticuerpos;6.04;9
+1956;Hepatitis B, anticuerpos (HBcAb) Ig G e Ig M;6.04;9
+1957;Hepatitis B, anticuerpos (HBcAb) Ig M;7.60;9
+1958;Hepatitis B, anticuerpos (HBsAb);6.21;9
+1959;Hepatitis A, anticuerpos (HAAb) Ig G e Ig M;7.60;9
+1960;Hepatitis A, anticuerpos (HAAb) Ig M;6.21;9
+1961;Virus de la Influenza, anticuerpos;4.03;9
+1962;Micoplasma pneumoniae, anticuerpos;3.17;9
+1963;Rubeola, anticuerpos ;5.81;9
+1964;Sarampi�n, anticuerpos ;2.91;9
+1965;Toxoplasma gondii, anticuerpos ;6.42;9
+1966;FTA - absorbido, prueba de confirmaci�n Treponema pallidum ;6.97;9
+1967;Varicela zoster, anticuerpos;3.33;9
+1968;Hepatitis C, anticuerpos;8.55;9
+1969;Coombs directo, test de;1.31;9
+1970;Coombs indirecto, cualitativo;0.92;9
+1971;Coombs indirecto (titulaci�n), test de;1.31;9
+1972;Sangre o componente aut�logo: obtenci�n, procesado y almacenamiento;8.50;9
+1973;Grupo sangu�neo y factor Rh;2.23;9
+1974;Tipificaci�n ABO;2.23;9
+1975;Fenotipificaci�n Rh;2.23;9
+1976;Prueba de compatibilidad ;2.23;9
+1977;Hemocultivo y antibiograma ;7.18;9
+1978;Coprocultivo y antibiograma;7.77;9
+1979;Mielocultivo y antibiograma;8.02;9
+1980;Urocultivo y antibiograma ;6.80;9
+1981;Cultivo para hongos;2.48;9
+1982;Cultivo para BK;5.05;9
+1983;Cultivo de secreciones (far�ngea, uretral, faginal, esputo, heridas, otros);4.34;9
+1984;Cultivo de l�quidos corporales (LCR, pleural, asc�tico, peric�rdico, amni�tico, otros);4.34;9
+1985;Parasitol�gico - directo y concentrado ;2.12;9
+1986;Gota gruesa  ;0.91;9
+1987;Parasitol�gico - sedimentaci�n en copa ;2.12;9
+1988;Examen directo para hongos (KOH);1.01;9
+1989;Cryptosporidium / Giardia, detecc�n de ant�genos;4.74;9
+1990;Herpes simple, detecci�n de ant�genos;4.74;9
+1991;Virus de influenza A, detecci�n de ant�genos;4.06;9
+1992;Hepatitis B, detecci�n de ant�geno de superficie (HBs Ag);3.87;9
+1993;Necropsia (autopsia) adulto;27.13;10
+1994;Necropsia (autopsia) ni�o;24.34;10
+1995;Papanicolaou ;2.72;10
+1996;Citolog�a de aspiraci�n con aguja fina;3.08;10
+1997;Estudio macrosc�pico de pieza operatoria;3.43;10
+1998;Estudio histopatol�gico de pieza operatoria con microscopia electr�nica;10.10;10
+1999;Estudio histopatol�gico de pieza operatoria con t�cnicas de inmunohistoqu�mica o  inmunofluorescencia;8.34;10
+2000;LCR - citoquimico;6.61;10
+2001;Semen - espermatograma;3.08;10
+2003;Limpieza;5.0;1
+2004;PETCT;575.0;8
+2005;Consulta;2.94;1

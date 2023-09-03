@@ -1,0 +1,322 @@
+Fecha/Hora            : 03/08/2023 17:37:05
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:37:06
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:39:49
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:39:50
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:40:28
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:40:30
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:43:05
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:43:08
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:45:14
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:45:17
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:45:46
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:45:48
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:46:23
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:46:24
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:46:38
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:47:01
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:53:07
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:53:52
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:53:59
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:54:43
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:54:45
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:55:34
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:55:35
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:57:03
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:57:03
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:57:07
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:57:54
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:57:54
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:57:54
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:58:01
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:58:01
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 17:58:02
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 18:00:17
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 18:00:17
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 18:00:18
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 18:00:37
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 18:00:37
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 18:00:38
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 03/08/2023 18:01:48
+No. de Error          : SP-1104
+Descripción del error : El archivo no existe.
+Detalle del error     : java.io.FileNotFoundException: .\src\main\java\sisPlanDatos\Usuario.dat (The system cannot find the path specified)
+Clase                 : [sisPlanDAL.ManejadorArchivosDAL]
+Método                : [abrirArchivoDatos]
+
+Fecha/Hora            : 08/08/2023 19:48:01
+No. de Error          : SP-2103
+Descripción del error : Error de Tipos de Datos
+Detalle del error     : Ya exite un ServiciosMedicos con el mismo código: 2002
+Clase                 : [sisPlanBLL.ServiciosMedicosBLL]
+Método                : [jBotModificarActionPerformed]
+
+Fecha/Hora            : 20/08/2023 17:18:35
+No. de Error          : SP-2103
+Descripción del error : Error de Tipos de Datos
+Detalle del error     : Ya exite un ServiciosMedicos con el mismo código: 1
+Clase                 : [sisPlanBLL.ServiciosMedicosBLL]
+Método                : [jBotModificarActionPerformed]
+
+Fecha/Hora            : 20/08/2023 17:18:43
+No. de Error          : SP-2103
+Descripción del error : Error de Tipos de Datos
+Detalle del error     : Ya exite un ServiciosMedicos con el mismo código: 1
+Clase                 : [sisPlanBLL.ServiciosMedicosBLL]
+Método                : [jBotModificarActionPerformed]
+
+Fecha/Hora            : 20/08/2023 17:18:49
+No. de Error          : SP-2103
+Descripción del error : Error de Tipos de Datos
+Detalle del error     : Ya exite un ServiciosMedicos con el mismo código: 1
+Clase                 : [sisPlanBLL.ServiciosMedicosBLL]
+Método                : [jBotModificarActionPerformed]
+
+Fecha/Hora            : 25/08/2023 21:07:20
+No. de Error          : SP-2103
+Descripción del error : Error de Tipos de Datos
+Detalle del error     : Ya exite un ServiciosMedicos con el mismo código: 5
+Clase                 : [sisPlanBLL.ServiciosMedicosBLL]
+Método                : [jBotModificarActionPerformed]
+
+Fecha/Hora            : 25/08/2023 21:07:29
+No. de Error          : SP-2103
+Descripción del error : Error de Tipos de Datos
+Detalle del error     : Ya exite un ServiciosMedicos con el mismo código: 5
+Clase                 : [sisPlanBLL.ServiciosMedicosBLL]
+Método                : [jBotModificarActionPerformed]
+
+Fecha/Hora            : 25/08/2023 21:07:33
+No. de Error          : SP-2103
+Descripción del error : Error de Tipos de Datos
+Detalle del error     : Ya exite un ServiciosMedicos con el mismo código: 5
+Clase                 : [sisPlanBLL.ServiciosMedicosBLL]
+Método                : [jBotModificarActionPerformed]
+
